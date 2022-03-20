@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Glossary
-permalink: /DCRMR/glossary/
+permalink: /ORC/glossary/
 sidebar:
   nav: "docs"
 ---
@@ -10,56 +10,56 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Num](/DCRMR/glossary/Num/)
+[Num](/ORC/glossary/Num/)
 
-[A](/DCRMR/glossary/A/)
+[A](/ORC/glossary/A/)
 
-[B](/DCRMR/glossary/B/)
+[B](/ORC/glossary/B/)
 
-[C](/DCRMR/glossary/C/)
+[C](/ORC/glossary/C/)
 
-[D](/DCRMR/glossary/D/)
+[D](/ORC/glossary/D/)
 
-[E](/DCRMR/glossary/E/)
+[E](/ORC/glossary/E/)
 
-[F](/DCRMR/glossary/F/)
+[F](/ORC/glossary/F/)
 
-[G](/DCRMR/glossary/G/)
+[G](/ORC/glossary/G/)
 
-[H](/DCRMR/glossary/H/)
+[H](/ORC/glossary/H/)
 
-[I](/DCRMR/glossary/I/)
+[I](/ORC/glossary/I/)
 
-[J](/DCRMR/glossary/J/)
+[J](/ORC/glossary/J/)
 
-[K](/DCRMR/glossary/K/)
+[K](/ORC/glossary/K/)
 
-[L](/DCRMR/glossary/L/)
+[L](/ORC/glossary/L/)
 
-[M](/DCRMR/glossary/M/)
+[M](/ORC/glossary/M/)
 
-[N](/DCRMR/glossary/N/)
+[N](/ORC/glossary/N/)
 
-[O](/DCRMR/glossary/O/)
+[O](/ORC/glossary/O/)
 
-[P](/DCRMR/glossary/P/)
+[P](/ORC/glossary/P/)
 
-[Q](/DCRMR/glossary/Q/)
+[Q](/ORC/glossary/Q/)
 
-[R](/DCRMR/glossary/R/)
+[R](/ORC/glossary/R/)
 
-[S](/DCRMR/glossary/S/)
+[S](/ORC/glossary/S/)
 
-[T](/DCRMR/glossary/T/)
+[T](/ORC/glossary/T/)
 
-[U](/DCRMR/glossary/U/)
+[U](/ORC/glossary/U/)
 
-[V](/DCRMR/glossary/V/)
+[V](/ORC/glossary/V/)
 
-[W](/DCRMR/glossary/W/)
+[W](/ORC/glossary/W/)
 
-[X](/DCRMR/glossary/X/)
+[X](/ORC/glossary/X/)
 
-[Y](/DCRMR/glossary/Y/)
+[Y](/ORC/glossary/Y/)
 
-[Z](/DCRMR/glossary/Z/)
+[Z](/ORC/glossary/Z/)

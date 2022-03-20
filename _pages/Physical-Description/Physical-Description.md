@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 8 — Series
-permalink: /ORC/series/
+title: 6 — Physical Description
+permalink: /ORC/Physical-Description/
 sidebar:
   nav: "docs"
 ---
@@ -10,3 +10,4 @@ sidebar:
 ## This page is under construction
 
 ---
+

@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 8 — Series
-permalink: /ORC/series/
+title: 4 — Mathematical details
+permalink: /ORC/mathematical-details/
 sidebar:
   nav: "docs"
 ---

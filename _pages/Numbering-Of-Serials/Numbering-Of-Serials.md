@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 8 — Series
-permalink: /ORC/series/
+title: 7 — Numbering of serials
+permalink: /ORC/numbering-of-serials/
 sidebar:
   nav: "docs"
 ---

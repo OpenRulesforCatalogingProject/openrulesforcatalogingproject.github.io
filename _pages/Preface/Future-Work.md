@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 8 — Series
-permalink: /ORC/series/
+title: Future work
+permalink: /ORC/preface/Future-work/
 sidebar:
   nav: "docs"
 ---

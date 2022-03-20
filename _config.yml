@@ -11,112 +11,84 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@master"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mistakes/minimal-mistakes@master"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "DCRM (RDA Edition)"
-title_separator          : "-"
-subtitle                 : "DCRMR: Descriptive Cataloging of Rare Materials (RDA Edition)"
-name                     : "Rare Books and Manuscripts Section Bibliographic Standards Committee"
-description              : "This website contains the official DCRMR standard for cataloging rare materials in RDA"
-url                      : "http://bsc.rbms.info/"
-baseurl                  : #"/DCRMR"
-repository               : "rbms-bsc/DCRMR"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "DCRM (RDA Edition)"
-breadcrumbs              : false #, false (default)
-words_per_minute         : 200
+locale: "en-US"
+title: "ORC Platform"
+title_separator: "-"
+subtitle:
+name: "Open Rules for Cataloguing"
+description:
+url:
+baseurl:
+repository: "OpenCatalogingRulesProject/ORCPlatform"
+teaser:
+logo:
+masthead_title: "ORC Platform"
+breadcrumbs: false
+words_per_minute: 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider:
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname:
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server:
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts:
+    colorscheme:
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme:
+    issue_term:
   staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    branch:
+    endpoint:
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey:
+  secret:
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : true
-search_full_content      : true
-search_provider          : google
+  path:
+search: true
+search_full_content: true
+search_provider: google
 algolia:
-  application_id         : #9TSHX7U6VQ
-  index_name             : #DCRMR
-  search_only_api_key    : #a12b9d73077220cff9407bb8c2c8b52c
-  powered_by             : # true (default), false
+  application_id:
+  index_name:
+  search_only_api_key:
+  powered_by:
 google:
-  search_engine_id       : c10480f7441c9fa26
-  instant_search         : # false (default), true
+  search_engine_id:
+  instant_search:
 # SEO Related
-google_site_verification : Tx1CsM6rPtYB1JmekM0Qeyp-xboQ5vj9SvNjTXiIkZo
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+google_site_verification:
+bing_site_verification:
+yandex_site_verification:
+naver_site_verification:
 
 # Social Sharing
 twitter:
-  username               :
+  username:
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  username:
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider:
   google:
-    tracking_id          : UA-176080532-1
-    anonymize_ip         : true # true, false (default)
+    tracking_id:
+    anonymize_ip:
 
-
-# Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -139,7 +111,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
 
 # Reading Files
 include:
@@ -179,14 +150,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -199,19 +168,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins (previously gems:)
 plugins:
@@ -228,7 +194,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
 
 # Archives
 #  Type
@@ -258,7 +223,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -278,7 +242,3 @@ defaults:
       comments: true
       share: true
       related: true
-
-
-      
-
