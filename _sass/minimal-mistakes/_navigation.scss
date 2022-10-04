@@ -177,12 +177,12 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  background: #30415C;
 
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: #fff;
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
