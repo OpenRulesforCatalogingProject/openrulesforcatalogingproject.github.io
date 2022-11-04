@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 9 — Additional notes
+title: 7 — Additional notes
 permalink: /ORC/additional-notes/
 sidebar:
   nav: "docs"

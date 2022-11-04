@@ -28,40 +28,28 @@ docs:
     url: /ORC/title/
     children:
 
-  - title: "2 — Statement of responsibility"
-    url: /ORC/sor/
-    children:
-
-  - title: "3 — Edition"
+  - title: "2 — Edition"
     url: /ORC/edition/
     children:
 
-  - title: "4 — Mathematical details"
-    url: /ORC/mathematical-details/
+  - title: "3 — Imprint"
+    url: /ORC/imprint/
     children:
 
-  - title: "5 — Production, Publication, Distribution, Manufacture"
-    url: /ORC/ppdm/
+  - title: "4 — Material Description"
+    url: /ORC/material-description/
     children:
 
-  - title: "6 — Physical Description"
-    url: /ORC/phys-desc/
+  - title: "5 — Content, media, and carrier types"
+    url: /ORC/content-media-carrier/
     children:
 
-  - title: "7 — Numbering of serials"
-    url: /ORC/numbering-of-serials/
-    children:
-
-  - title: "8 — Series"
+  - title: "6 — Series"
     url: /ORC/series/
     children:
 
-  - title: "9 — Additional Notes"
+  - title: "7 — Additional Notes"
     url: /ORC/additional-notes/
-    children:
-
-  - title: "10 — Identifiers"
-    url: /ORC/identifiers/
     children:
 
   - title: "Appendices"

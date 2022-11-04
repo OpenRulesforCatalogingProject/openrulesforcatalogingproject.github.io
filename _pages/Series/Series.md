@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 8 — Series
+title: 6 — Series
 permalink: /ORC/series/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 3 — Edition
+title: 2 — Edition
 permalink: /ORC/edition/
 sidebar:
   nav: "docs"

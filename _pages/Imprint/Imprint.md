@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 6 — Physical Description
-permalink: /ORC/Physical-Description/
+title: 3 — Imprint
+permalink: /ORC/imprint/
 sidebar:
   nav: "docs"
 ---
@@ -10,4 +10,3 @@ sidebar:
 ## This page is under construction
 
 ---
-
