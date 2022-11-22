@@ -8,12 +8,10 @@ sidebar:
 ---
 
 ## Contents:
+{: .no_toc .text-delta }
 
--   050100\. Content type
-
--   050200\. Media type
-
--   050200\. Carrier type
+- TOC
+{:toc}
 
 ## 050100. Content type
 
