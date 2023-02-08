@@ -16,17 +16,17 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale: "en-US"
-title: "ORC Platform"
+title: "Open Rules for Cataloging"
 title_separator: "-"
 subtitle:
-name: "Open Rules for Cataloguing"
+name: "ORC"
 description:
 url:
 baseurl:
 repository: "OpenCatalogingRulesProject/ORCPlatform"
 teaser:
-logo:
-masthead_title: "ORC Platform"
+logo: "/assets/pictures/ORClogo.png"
+masthead_title: "Open Rules for Cataloging"
 breadcrumbs: false
 words_per_minute: 200
 comments:
