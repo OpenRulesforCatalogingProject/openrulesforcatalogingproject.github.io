@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 4 — Material description
+title: 4 - Material description
 permalink: /ORC/material-description/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 3 — Imprint
+title: 3 - Imprint
 permalink: /ORC/imprint/
 sidebar:
   nav: "docs"
