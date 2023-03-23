@@ -17,14 +17,11 @@ TEST PAGE
 
 ## 050100. Content type
 
-**Definition:** Describes the fundamental form or forms of the resource
+**Definition:** Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-**Rule:** Assign a term from the [Term and Code List for RDA Content
-Types](https://www.loc.gov/standards/valuelist/rdacontent.html). In MARC
-coding the term can be expressed in text form, a three-character code,
-or both.
+**Rule:** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
--   Source: ISBD
+-   Source: 
 
 **MARC field:** 336
 
@@ -35,15 +32,11 @@ or both.
 
 ## 050200. Media type
 
-**Definition:** Describes the type of device required to view, run, or
-use the resource that you are describing
+**Definition:** Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-**Rule:** Assign a term from the [Term and Code List for RDA Media
-Types](https://www.loc.gov/standards/valuelist/rdamedia.html). In MARC
-coding the term can be expressed in text form, a one-character code, or
-both.
+**Rule:** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
--   Source: ISBD
+-   Source: 
 
 **MARC field:** 337
 
@@ -52,15 +45,11 @@ both.
 
 ## 050300. Carrier type
 
-**Definition:** Describes the format of the device required to view,
-run, use, or store the resource that you are describing
+**Definition:** Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-**Rule:** Assign a term from the [Term and Code List for RDA Carrier
-Types](https://www.loc.gov/standards/valuelist/rdacarrier.html). In MARC
-coding the term can be expressed in text form, a two-character code, or
-both.
+**Rule:** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
--   Source: ISBD
+-   Source: 
 
 **MARC field:** 338
 
