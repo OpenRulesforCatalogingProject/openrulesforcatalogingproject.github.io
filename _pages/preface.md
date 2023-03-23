@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Preface
-permalink: /preface/
+permalink: /ORC/preface/
 sidebar:
   nav: "docs"
 ---
@@ -10,10 +10,10 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Background](/preface/Background/)
+[Background](/ORC/preface/Background/)
 
-[Future work](/preface/Future-Work/)
+[Future work](/ORC/preface/Future-Work/)
 
-[Acknowledgments](/preface/Acknowledgments/)
+[Acknowledgments](/ORC/preface/Acknowledgments/)
 
 ---

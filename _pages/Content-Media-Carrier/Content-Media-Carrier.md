@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5 - Content, media, and carrier types
-permalink: /content-media-carrier/
+permalink: /ORC/content-media-carrier/
 sidebar:
   nav: "docs"
 ---
