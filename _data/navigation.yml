@@ -2,8 +2,8 @@
 main:
   - title: "Search"
     url: /Search/
-  - title: "ORC"
-    url: /ORC/
+  - title: "About"
+    url: /ORC/about/
 
 # example navigation
 docs:
