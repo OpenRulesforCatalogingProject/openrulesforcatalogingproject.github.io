@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-# Scope
-
 The Open Rules for Cataloging (ORC) project supports the cataloging
 community in a pragmatic and freely available manner while adhering to
 cataloging ethics and established best practices. The ORC Core Committee
