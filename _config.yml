@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle:
 name: "ORC"
 description:
-url:
+url: "https://openrulesforcatalogingproject.github.io/ORC/about/"
 baseurl:
 repository: "OpenCatalogingRulesProject/ORCPlatform"
 teaser:
