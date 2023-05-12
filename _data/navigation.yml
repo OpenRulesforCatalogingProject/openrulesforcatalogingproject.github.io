@@ -3,19 +3,10 @@ main:
   - title: "Search"
     url: /Search/
   - title: "ORC"
-    url: /ORC/preface/
+    url: /ORC/about/
 
 # example navigation
 docs:
-  - title: "Preface"
-    url: /ORC/preface/
-    children:
-      - title: "Background"
-        url: /ORC/preface/Background/
-      - title: "Future work"
-        url: /ORC/preface/Future-work/
-      - title: "Acknowledgments"
-        url: /ORC/preface/Acknowledgments/
   - title: "About"
     url: /ORC/about/
     children:

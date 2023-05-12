@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-# Vision
-
 Free and open cataloging guidelines for the library community with
 practical examples and easily understood models created by catalogers to
 empower catalogers.
