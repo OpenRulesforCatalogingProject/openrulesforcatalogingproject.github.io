@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Vision
-permalink: /ORC/about/vision/
+permalink: /ORC/about/Vision/
 sidebar:
   nav: "docs"
 ---

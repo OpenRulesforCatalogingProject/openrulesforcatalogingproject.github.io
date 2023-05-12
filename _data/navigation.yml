@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /Search/
   - title: "ORC"
-    url: /ORC/about/
+    url: /ORC/
 
 # example navigation
 docs:
@@ -11,9 +11,9 @@ docs:
     url: /ORC/about/
     children:
       - title: "Vision"
-        url: /ORC/about/vision/
+        url: /ORC/about/Vision/
       - title: "Scope"
-        url: /ORC/about/scope/
+        url: /ORC/about/Scope/
 
   - title: "Introduction"
     url: /ORC/introduction/

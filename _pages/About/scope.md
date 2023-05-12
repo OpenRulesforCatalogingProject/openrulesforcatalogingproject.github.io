@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Scope
-permalink: /ORC/about/scope/
+permalink: /ORC/about/Scope/
 sidebar:
   nav: "docs"
 ---
