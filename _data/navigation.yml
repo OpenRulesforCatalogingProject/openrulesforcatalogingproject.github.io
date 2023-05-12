@@ -11,9 +11,9 @@ docs:
     url: /ORC/about/
     children:
       - title: "Vision"
-        url: /ORC/about/Vision/
+        url: /ORC/about/vision/
       - title: "Scope"
-        url: /ORC/about/Scope/
+        url: /ORC/about/scope/
 
   - title: "Introduction"
     url: /ORC/introduction/
