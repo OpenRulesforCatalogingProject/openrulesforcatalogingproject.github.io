@@ -10,8 +10,8 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Vision](/ORC/about/Vision/)
+[Vision](/ORC/about/vision/)
 
-[Scope](/ORC/about/Scope/)
+[Scope](/ORC/about/scope/)
 
 ---
