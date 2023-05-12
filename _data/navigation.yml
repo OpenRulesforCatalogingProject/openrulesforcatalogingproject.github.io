@@ -16,6 +16,13 @@ docs:
         url: /ORC/preface/Future-work/
       - title: "Acknowledgments"
         url: /ORC/preface/Acknowledgments/
+ - title: "About"
+    url: /ORC/about/
+    children:
+      - title: "Vision"
+        url: /ORC/about/Vision/
+      - title: "Scope"
+        url: /ORC/about/Vision/
 
   - title: "Introduction"
     url: /ORC/introduction/
