@@ -1,10 +1,10 @@
 ---
-layout: splash
+layout: single
 type: docs
-author_profile: false
-title: "Open Rules for Cataloging"
+title: Home
 permalink: /ORC/
-
+sidebar:
+  nav: "docs"
 ---
 
 ## Welcome!
