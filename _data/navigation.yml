@@ -5,7 +5,7 @@ main:
   - title: "Home"
     url: /ORC/
 
-# example navigation
+# side navigation bar
 docs:
   - title: "About"
     url: /ORC/about/
@@ -14,7 +14,9 @@ docs:
         url: /ORC/about/Vision/
       - title: "Scope"
         url: /ORC/about/Scope/
-
+      - title: "Core Committee Members"
+        url: /ORC/about/core/     
+        
   - title: "Introduction"
     url: /ORC/introduction/
 
