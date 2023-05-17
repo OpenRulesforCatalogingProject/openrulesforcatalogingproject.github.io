@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Home
-permalink: /ORC/
+permalink: /ORC/home/
 sidebar:
   nav: "docs"
 ---
