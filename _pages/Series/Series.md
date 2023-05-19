@@ -57,7 +57,7 @@ access.
 >490 1\# \$aFor dummies  
 >830 \#0 \$a--For dummies.
 
-$nbsp;
+` `  
 
 If a resource does not bear a series title but is known to be part of a
 series, record the series and add a note justifying the addition. A
