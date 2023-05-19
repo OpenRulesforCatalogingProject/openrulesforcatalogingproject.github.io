@@ -55,9 +55,7 @@ access.
 >  
 >245 10 \$aAndroid phones for dummies.  
 >490 1\# \$aFor dummies  
->830 \#0 \$a--For dummies.
-
-` `  
+>830 \#0 \$a--For dummies.  
 
 If a resource does not bear a series title but is known to be part of a
 series, record the series and add a note justifying the addition. A
