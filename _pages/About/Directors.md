@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Vision
+title: Board of Directors
 permalink: /ORC/about/Board/
 sidebar:
   nav: "docs"

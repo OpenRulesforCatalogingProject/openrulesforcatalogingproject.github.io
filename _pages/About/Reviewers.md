@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Vision
+title: Board of Reviewers
 permalink: /ORC/about/Reviewers/
 sidebar:
   nav: "docs"

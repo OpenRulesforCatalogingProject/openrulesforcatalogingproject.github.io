@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Vision
+title: Core Committee Members
 permalink: /ORC/about/Core/
 sidebar:
   nav: "docs"
