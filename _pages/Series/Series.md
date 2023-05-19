@@ -20,7 +20,7 @@ not be numbered.
 - TOC
 {:toc}
 
-# 060100. Series title
+## 060100. Series title
 
 **Definition:** The series title is the title of a comprehensive
 publication of which the resource is a part; includes the ISSN if known.
