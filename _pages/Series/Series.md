@@ -20,7 +20,7 @@ not be numbered.
 - TOC
 {:toc}
 
-##060100. Series title
+# 060100. Series title
 
 **Definition:** The series title is the title of a comprehensive
 publication of which the resource is a part; includes the ISSN if known.
@@ -56,7 +56,7 @@ access.
 >245 10 \$aAndroid phones for dummies.  
 >490 1\# \$aFor dummies  
 >830 \#0 \$a--For dummies.
-
+  
 If a resource does not bear a series title but is known to be part of a
 series, record the series and add a note justifying the addition. A
 series title may be found on an outside source, such as the publisher\'s
@@ -84,7 +84,7 @@ to bring together resources commonly treated as a series.
 >490 0\# \$aBarney goes to series  
 >500 \#\# \$aSeries created by cataloger.  
 
-##060200. Parallel title of a series or multipart monographic resource
+## 060200. Parallel title of a series or multipart monographic resource
 
 **Definition:** A parallel title of a series is a title in another
 language or script than the series title that is presented as an
@@ -110,7 +110,7 @@ the order that they appear.
 >490 1\# \$aGrundlagen der Kommunikation und Kognition = \$aFoundations of communication and cognition  
 >490 1\# \$aResearch in text theory, \$x0179-4167 ; \$vv. 14 = \$aUntersuchungen zur Texttheorie  
 
-##060300. Other title information of a series or multipart monographic
+## 060300. Other title information of a series or multipart monographic
 resource
 
 **Definition:** A word or phrase, or a group of characters, appearing in
@@ -133,7 +133,7 @@ for identification or for clarification of the scope of the resource.
 >490 1\# \$aLooking into the past : people, places and customs  
 >490 1\# \$aDino tales : life guides for families
 
-##060400. Statement of responsibility relating to a series
+## 060400. Statement of responsibility relating to a series
 
 **Definition:** Statement relating to any persons, families, or
 corporate bodies responsible for the creation of, or contributing to,
@@ -159,7 +159,7 @@ chief source of information or on another prominent place on the item.
 >490 1\# \$aThe Malloreon / David Eddings ; \$vbk. 2  
 >490 1\# \$aMemoir / Colorado Archaeological Society
 
-##060500. International standard number of a series or multipart
+## 060500. International standard number of a series or multipart
 monographic resource
 
 **Definition:** An international standard number relating to a series or
@@ -181,7 +181,7 @@ can come from any source.
 >  
 >490 0\# \$aLife series, \$x0023-6721
 
-##060600. Numbering within a series or multipart monographic resource
+## 060600. Numbering within a series or multipart monographic resource
 
 **Definition:** Numbering or other enumeration and dates associated with
 issues or items held of the series or multipart monograph.
@@ -206,7 +206,7 @@ and the usage of the publisher.
 >490 1\# \$aResearch in Medieval studies ; \$vXVI  
 >490 1\# \$aLund studies in geography, \$x 1400-1144 ; \$v 101
 
-##060700. Notes on series and multipart monographic resources
+## 060700. Notes on series and multipart monographic resources
 
 **Definition:** A note on the series or multipart monograph.
 
