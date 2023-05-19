@@ -15,7 +15,7 @@ Open Rules for Cataloging was incorporated as a nonprofit on April 27, 2023, and
 
 [Scope](/ORC/about/Scope/)
 
-[Board of Directors](/ORC/about/Board/)
+[Board of Directors](/ORC/about/Directors/)
 
 [Core Committee Members](/ORC/about/Core/)
 

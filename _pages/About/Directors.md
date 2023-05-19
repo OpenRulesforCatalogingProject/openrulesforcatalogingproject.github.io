@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Board of Directors
-permalink: /ORC/about/Board/
+permalink: /ORC/about/Directors/
 sidebar:
   nav: "docs"
 ---
