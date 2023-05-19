@@ -14,8 +14,12 @@ docs:
         url: /ORC/about/Vision/
       - title: "Scope"
         url: /ORC/about/Scope/
+      - title: "Board of Directors"
+        url: /ORC/about/Directors/
       - title: "Core Committee Members"
-        url: /ORC/about/Core/     
+        url: /ORC/about/Core/   
+      - title: "Board of Reviewers"
+        url: /ORC/about/Reviewers/
         
   - title: "Introduction"
     url: /ORC/introduction/
