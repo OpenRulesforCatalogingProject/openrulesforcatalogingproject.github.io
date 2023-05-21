@@ -42,10 +42,12 @@ access.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html) \$a
 
->**Examples:**  
+>Examples:  
 >  
 >490 0\# \$aDepartment of State publication ; \$v7846  
+>  
 >490 0\# \$aTime-Life library of art  
+>  
 >490 0\# \$aEthnic groups in American life series  
 >    
 >490 1\# \$aThe Reference shelf  
@@ -109,7 +111,9 @@ the order that they appear.
 >Examples:  
 >  
 >490 1\# \$aAnnual census of manufactures = \$aRecensement des manufactures, \$x0315-5587  
+>  
 >490 1\# \$aGrundlagen der Kommunikation und Kognition = \$aFoundations of communication and cognition  
+>  
 >490 1\# \$aResearch in text theory, \$x0179-4167 ; \$vv. 14 = \$aUntersuchungen zur Texttheorie  
 
 ## 060300. Other title information of a series or multipart monographic resource
@@ -131,7 +135,9 @@ for identification or for clarification of the scope of the resource.
 >Examples:  
 >  
 >490 1\# \$aDetroit area study, 1971 : social problems and social change in Detroit ; \$vno. 19  
+>  
 >490 1\# \$aLooking into the past : people, places and customs  
+>  
 >490 1\# \$aDino tales : life guides for families
 
 ## 060400. Statement of responsibility relating to a series
@@ -155,9 +161,13 @@ chief source of information or on another prominent place on the item.
 >Examples:  
 >  
 >490 0\# \$aWild world series / Alan Sloan  
+>  
 >490 0\# \$aDepartment of State publication  
+>  
 >490 1\# \$aBulletin / U.S. Department of Labor, Bureau of Labor Statistics  
+>  
 >490 1\# \$aThe Malloreon / David Eddings ; \$vbk. 2  
+>  
 >490 1\# \$aMemoir / Colorado Archaeological Society
 
 ## 060500. International standard number of a series or multipart monographic resource
@@ -202,8 +212,11 @@ and the usage of the publisher.
 >Examples:  
 >  
 >490 1\# \$aWest Virginia University bulletin ; \$vser. 74, no. 11-3  
+>  
 >490 0\# \$aMusic educators newsletter ; \$vno.1492  
+>  
 >490 1\# \$aResearch in Medieval studies ; \$vXVI  
+>  
 >490 1\# \$aLund studies in geography, \$x 1400-1144 ; \$v 101
 
 ## 060700. Notes on series and multipart monographic resources
