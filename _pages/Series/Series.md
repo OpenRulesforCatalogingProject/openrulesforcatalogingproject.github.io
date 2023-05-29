@@ -7,10 +7,10 @@ sidebar:
   nav: "docs"
 ---
 
-Provide feedback <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-VwSN3pr7TmccQcY3db5deCfdVN2sVGtrASC9RQdQOeEnzA/viewform" target="_blank">here</a>
+Provide feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSd-VwSN3pr7TmccQcY3db5deCfdVN2sVGtrASC9RQdQOeEnzA/viewform){:target="_blank"}
 
 Series are usually created by the publisher. A publisher assigns a
-separate series title to a group of resources (such as books, DVDs,
+separate Series title to a group of resources (such as books, DVDs,
 periodicals, etc.) that have a common subject or theme. They may or may
 not be numbered.
 
@@ -22,25 +22,25 @@ not be numbered.
 
 ## 060100. Series title
 
-**Definition:** The series title is the title of a comprehensive
+**Definition:** The Series title is the title of a comprehensive
 publication of which the resource is a part; includes the ISSN if known.
 
--   Source: BIBFRAME \"<a href="https://id.loc.gov/ontologies/bibframe.html#c_Series" target="_blank">Series</a>\"; <a href="http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf" target="_blank">LCRI 1.0</a> (p. 16).
+-   Source: BIBFRAME \"[Series](https://id.loc.gov/ontologies/bibframe.html#c_Series){:target="_blank"}\"; [LCRI 1.0](http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf){:target="_blank"} (p. 16).
 
-**Rule:** Record the series title in a series statement.
+**Rule:** Record the Series title in a series statement.
 
 Transcribe the titles of all the series of which the resource is a part.
-If there is an inaccuracy in the series title, transcribe it as it
-appears and add a note for the corrected version. If the series title is
+If there is an inaccuracy in the Series title, transcribe it as it
+appears and add a note for the corrected version. If the Series title is
 grammatically linked to the title of the item being cataloged, include
-it in the title proper, and transcribe it in a series statement.
+it in the Title proper, and transcribe it in a series statement.
 Consider providing a controlled series added entry if required for
 access.
 
--   Source: Universal principle expressed in current cataloging codes; <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=76" target="_blank">ALA 1908 rules</a> (p. 54), modified; <a href="http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf" target="_blank">LCRI 1.6B</a> (p. 61).
+-   Source: Universal principle expressed in current cataloging codes; [ALA 1908 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=76){:target="_blank"} (p. 54), modified; [LCRI 1.6B](http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf){:target="_blank"} (p. 61).
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$a
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
 >Examples:  
 >  
@@ -53,7 +53,7 @@ access.
 >490 1\# \$aThe Reference shelf  
 >830 \#0 \$a Reference shelf  
 >  
->Example of grammatically linked series title:  
+>Example of grammatically linked Series title:  
 >  
 >245 10 \$aAndroid phones for dummies.  
 >490 1\# \$aFor dummies  
@@ -61,16 +61,16 @@ access.
 
 <br>
 
-If a resource does not bear a series title but is known to be part of a
-series, record the series and add a note justifying the addition. A
-series title may be found on an outside source, such as the publisher\'s
-website or catalog. Additionally a cataloger may create a series title
+If a resource does not bear a Series title but is known to be part of a
+series, record the Series title and add a note justifying the addition. A
+Series title may be found on an outside source, such as the publisher\'s
+website or catalog. Additionally a cataloger may create a Series title
 to bring together resources commonly treated as a series.
 
--   Source: Universal principle expressed in current cataloging codes; <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=76" target="_blank">ALA 1908 rules</a> (p. 54), modified; <a href="http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf" target="_blank">LCRI 1.6B</a> (p. 61).
+-   Source: Universal principle expressed in current cataloging codes; [ALA 1908 rule](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=76){:target="_blank"} (p. 54), modified; [LCRI 1.6B](http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf){:target="_blank"} (p. 61).
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$a
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
 >Examples:  
 >  
@@ -90,23 +90,23 @@ to bring together resources commonly treated as a series.
 
 ## 060200. Parallel title of a series or multipart monographic resource
 
-**Definition:** A parallel title of a series is a title in another
-language or script than the series title that is presented as an
-equivalent of the title proper on the item.
+**Definition:** A Parallel title of a series is a title in another
+language or script than the Series title that is presented as an
+equivalent of the Title proper on the item.
 
--   Source: IFLA Element Sets \"[has parallel title of series or multipart monographic resource](https://www.iflastandards.info/isbd/elements#P1027),\" modified.
+-   Source: IFLA Element Sets \"[has parallel title of series or multipart monographic resource](https://www.iflastandards.info/isbd/elements#P1027){:target="_blank"},\" modified.
 
-**Rule:** If the series title appears in more than one language, choose
-the same language as the title proper for the series title. If the
-resource being cataloged has series titles in two or more languages,
-record all parallel series titles deemed necessary. Optionally, add a
-note describing the languages of the recorded parallel series titles in
+**Rule:** If the Series title appears in more than one language, choose
+the same language as the Title proper for the Series title. If the
+resource being cataloged has Series titles in two or more languages,
+record all Parallel titles of series deemed necessary. Optionally, add a
+note describing the languages of the recorded Parallel titles of series in
 the order that they appear.
 
--   Source: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=43" target="_blank">LC 1949 rules</a> (p. 31), modified; <a href="https://www.loc.gov/cds/PDFdownloads/csb/CSB_079.pdf" target="_blank">LCRI 1.6C</a> (p. 12), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=43){:target="_blank"} (p. 31), modified; [LCRI 1.6C](https://www.loc.gov/cds/PDFdownloads/csb/CSB_079.pdf){:target="_blank"} (p. 12), modified.
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$a
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
 >Examples:  
 >  
@@ -122,15 +122,15 @@ the order that they appear.
 conjunction with or subordinate to the title of the series. Includes
 what is commonly known as the subtitle.
 
--   Source: IFLA Element Sets \"<a href="http://iflastandards.info/ns/isbd/elements/P1028" target="_blank">has other title information of series or multipart monographic resource</a>,\" modified.
+-   Source: IFLA Element Sets \"[has other title information of series or multipart monographic resource](http://iflastandards.info/ns/isbd/elements/P1028){:target="_blank"},\" modified.
 
-**Rule:** Transcribe other title information of a series if necessary
+**Rule:** Transcribe Other title information of a series if necessary
 for identification or for clarification of the scope of the resource.
 
--   Source: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65" target="_blank">LC 1949 rules</a> (p. 53), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified.
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$a
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
 >Examples:  
 >  
@@ -146,17 +146,17 @@ for identification or for clarification of the scope of the resource.
 corporate bodies responsible for the creation of, or contributing to,
 the content of a series.
 
--   Source: BIBFRAME \"<a href="https://id.loc.gov/ontologies/bibframe.html#p_responsibilityStatement" target="_blank">responsibilityStatement</a>.\"
+-   Source: BIBFRAME \"[responsibilityStatement](https://id.loc.gov/ontologies/bibframe.html#p_responsibilityStatement){:target="_blank"}.\"
 
 **Rule:** Optional if essential for identification. If all of the
 volumes of the series are by the same personal or corporate author or
-authors, transcribe the statement of responsibility as it appears on the
+authors, transcribe the Statement of responsibility relating to a series as it appears on the
 chief source of information or on another prominent place on the item.
 
--   Source: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=44" target="_blank">LC 1949 rules</a> (p. 32), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=44){:target="_blank"} (p. 32), modified.
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$a
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
 >Examples:  
 >  
@@ -176,16 +176,16 @@ chief source of information or on another prominent place on the item.
 multipart monograph, such as an International Standard Serial Number
 (ISSN).
 
--   Source: IFLA Element Sets \"<a href="https://www.iflastandards.info/isbd/elements#P1030" target="_blank">has international standard number of series or multipart monographic resource</a>,\" modified.
+-   Source: IFLA Element Sets \"[has international standard number of series or multipart monographic resource](https://www.iflastandards.info/isbd/elements#P1030){:target="_blank"},\" modified.
 
-**Rule:** Record the international standard number of the series or
+**Rule:** Record the International standard number of the series or
 multipart monograph if it is known. The international standard number
 can come from any source.
 
 -   Source: Universal principle expressed in current cataloging codes.
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$x
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$x
 
 >Example:  
 >  
@@ -196,18 +196,18 @@ can come from any source.
 **Definition:** Numbering or other enumeration and dates associated with
 issues or items held of the series or multipart monograph.
 
--   Source: BIBFRAME \"<a href="https://id.loc.gov/ontologies/bibframe.html#p_enumerationAndChronology" target="_blank">enumerationAndChronology</a>,\" modified.
+-   Source: BIBFRAME \"[enumerationAndChronology](https://id.loc.gov/ontologies/bibframe.html#p_enumerationAndChronology){:target="_blank"},\" modified.
 
 **Rule:** If there is volume, part, or number information on the item,
-transcribe this after the series title and ISSN (if present). Transcribe
+transcribe this after the Series title and ISSN (if present). Transcribe
 the volume designation or the date of issue or both, if both appear in
 the series. The date may be dependent on the frequency of publication
 and the usage of the publisher.
 
--   Source: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65" target="_blank">LC 1949 rules</a> (p. 53), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified.
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd490.html" target="_blank">490</a> \$v
+[490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$v
 
 >Examples:  
 >  
@@ -223,17 +223,17 @@ and the usage of the publisher.
 
 **Definition:** A note on the series or multipart monograph.
 
--   Source: IFLA Element Sets \"<a href="https://www.iflastandards.info/isbd/elements#P1041" target="_blank">has note on series and multipart monographic resources</a>,\" modified.
+-   Source: IFLA Element Sets \"[has note on series and multipart monographic resources](https://www.iflastandards.info/isbd/elements#P1041){:target="_blank"},\" modified.
 
 **Rule:** Add notes when necessary to explain the series or multipart
 monographic resource, and to supply essential bibliographical details
 not given in the series and multipart monographic resources area. Notes
 may come from any source.
 
--   Source: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=77" target="_blank">ALA 108 rules</a> (p. 55), modified.
+-   Source: [ALA 108 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=77){:target="_blank"} (p. 55), modified.
 
 **MARC field:**
-<a href="https://www.loc.gov/marc/bibliographic/bd500.html" target="_blank">500</a>  \$a
+[500](https://www.loc.gov/marc/bibliographic/bd500.html){:target="_blank"} \$a
 
 >Example:  
 >  

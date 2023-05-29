@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
-Faye Leibowitz, formerly of the Univerisity of Pittsburgh
+## July 2023-June 2024
+
+Faye Leibowitz, formerly of the University of Pittsburgh
 
 ---
