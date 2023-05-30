@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-Provide feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSd-VwSN3pr7TmccQcY3db5deCfdVN2sVGtrASC9RQdQOeEnzA/viewform){:target="_blank"}
+Provide feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSd-VwSN3pr7TmccQcY3db5deCfdVN2sVGtrASC9RQdQOeEnzA/viewform){:target="_blank"}.
 
 Series are usually created by the publisher. A publisher assigns a
 separate Series title to a group of resources (such as books, DVDs,
@@ -88,6 +88,10 @@ to bring together resources commonly treated as a series.
 >490 0\# \$aBarney goes to series  
 >500 \#\# \$aSeries created by cataloger.  
 
+<br>
+
+[Return to Contents](#contents)
+
 ## 060200. Parallel title of a series or multipart monographic resource
 
 **Definition:** A Parallel title of a series is a title in another
@@ -116,6 +120,10 @@ the order that they appear.
 >  
 >490 1\# \$aResearch in text theory, \$x0179-4167 ; \$vv. 14 = \$aUntersuchungen zur Texttheorie  
 
+<br>
+
+[Return to Contents](#contents)
+
 ## 060300. Other title information of a series or multipart monographic resource
 
 **Definition:** A word or phrase, or a group of characters, appearing in
@@ -139,6 +147,10 @@ for identification or for clarification of the scope of the resource.
 >490 1\# \$aLooking into the past : people, places and customs  
 >  
 >490 1\# \$aDino tales : life guides for families
+
+<br>
+
+[Return to Contents](#contents)
 
 ## 060400. Statement of responsibility relating to a series
 
@@ -170,6 +182,10 @@ chief source of information or on another prominent place on the item.
 >  
 >490 1\# \$aMemoir / Colorado Archaeological Society
 
+<br>
+
+[Return to Contents](#contents)
+
 ## 060500. International standard number of a series or multipart monographic resource
 
 **Definition:** An international standard number relating to a series or
@@ -190,6 +206,10 @@ can come from any source.
 >Example:  
 >  
 >490 0\# \$aLife series, \$x0023-6721
+
+<br>
+
+[Return to Contents](#contents)
 
 ## 060600. Numbering within a series or multipart monographic resource
 
@@ -219,6 +239,10 @@ and the usage of the publisher.
 >
 >490 1\# \$aLund studies in geography, \$x 1400-1144 ; \$v 101
 
+<br>
+
+[Return to Contents](#contents)
+
 ## 060700. Notes on series and multipart monographic resources
 
 **Definition:** A note on the series or multipart monograph.
@@ -239,5 +263,9 @@ may come from any source.
 >  
 >490 1\# \$aThe Convergence saga ; \$vbook one  
 >500 \#\# \$aSeries title from jacket.
+
+<br>
+
+[Return to Contents](#contents)
 
 ---
