@@ -25,6 +25,9 @@ docs:
         
   - title: "Introduction"
     url: /ORC/introduction/
+    children:
+      - title: "Bibliography"
+        url: /ORC/introduction/Bibliography/
 
   - title: "0 — General rules"
     url: /ORC/general-rules/
