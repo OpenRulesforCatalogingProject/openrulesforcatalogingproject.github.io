@@ -11,6 +11,8 @@ The Open Rules for Cataloging (ORC) project was initiated in 2019 by Amber Bille
 
 Open Rules for Cataloging was incorporated as a nonprofit on April 27, 2023, and we are currently in the process of applying for federal nonprofit status.
 
+Special thanks to the RBMS RDA Editorial Group who graciously allowed us clone their GitHub repository as the basis for this website and provided guidance on workflows and other helpful advice for the development of this project. In particular: Jessica Grzegorski, Elizabeth Hobart, kalan Knudson Davis, and Amy Tims.
+
 [Vision](/ORC/about/Vision/)
 
 [Scope](/ORC/about/Scope/)

@@ -11,12 +11,15 @@ sidebar:
 
 * Lloyd Chittenden
 * Amy Hitchner
+* Seth Huber
 * Ann Kardos, _co-leader, April 2023-present_
 * Faye Leibowitz, _co-leader, 2021-present_
 * Julie Moore
 * Denise Soufi, _co-leader, 2021-March 2023_
 * Sarah Theimer
+* Lauren Wallce
 * Jennifer Weston
+* Vance Woods
 
 ## Past Members
 
@@ -26,7 +29,6 @@ sidebar:
 * Kelsey George
 * Nincy George
 * Matt Haugen
-* Seth Huber
 * David Mayo
 * David Norris _[(in memoriam)](https://library.stkate.edu/news/remembering-david-norris?fbclid=IwAR0l3huAyb8CLnKW8HrKlyb2VGPaotuaJL46CqSKvrijsExbekpw3GgUj6Q)_
 * Hannah Olsen

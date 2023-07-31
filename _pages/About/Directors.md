@@ -9,6 +9,8 @@ sidebar:
 
 ## July 2023-June 2024
 
-Faye Leibowitz, formerly of the University of Pittsburgh
+* Faye Leibowitz
+* Lori Van Deman
+* Eric Willey
 
 ---
