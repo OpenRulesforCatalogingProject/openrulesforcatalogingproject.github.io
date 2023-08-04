@@ -12,6 +12,7 @@ sidebar:
 * Lloyd Chittenden
 * Amy Hitchner
 * Seth Huber
+* Daniel Joudrey
 * Ann Kardos, _co-leader, April 2023-present_
 * Faye Leibowitz, _co-leader, 2021-present_
 * Julie Moore
