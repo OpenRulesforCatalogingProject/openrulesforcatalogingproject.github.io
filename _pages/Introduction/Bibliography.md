@@ -7,9 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-
-## Bibliography
-
 ORC uses out of copyright and open access cataloging resources as the basis for developing its rules.
 
 * ALA 1908 rules = [Catalog Rules: Author and Title Entries. Chicago: ALA, 1908](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=5){:target="_blank"}
