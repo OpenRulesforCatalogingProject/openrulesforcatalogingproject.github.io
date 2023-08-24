@@ -18,7 +18,7 @@ sidebar:
 * Julie Moore
 * Denise Soufi, _co-leader, 2021-March 2023_
 * Sarah Theimer
-* Lauren Wallce
+* Lauren Wallace
 * Jennifer Weston
 * Vance Woods
 
