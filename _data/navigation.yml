@@ -28,6 +28,8 @@ docs:
     children:
       - title: "Bibliography"
         url: /ORC/introduction/Bibliography/
+      - title: "Resources"
+        url: /ORC/introduction/Resources/
 
   - title: "0 — General rules"
     url: /ORC/general-rules/
