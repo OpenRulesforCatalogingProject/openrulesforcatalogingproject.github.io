@@ -10,8 +10,8 @@ sidebar:
 ### Other open access cataloging rules
 
 * [CONSER Cataloging Manual CCM](https://www.loc.gov/aba/pcc/conser/more-documentation.html){:target="_blank"}. Serials
-* [Descriptive Cataloging of Rare Materials](https://rbms.info/dcrm/){:target="_blank"}. Books, manuscripts, cartographic materials, graphics, music, and serials
 * [DCRMR: Descriptive Cataloging of Rare Materials (RDA Edition)](https://bsc.rbms.info/DCRMR/preface/){:target="_blank"}. Hyperlinked manual
+* [Descriptive Cataloging of Rare Materials](https://rbms.info/dcrm/){:target="_blank"}. Books, manuscripts, cartographic materials, graphics, music, and serials
 * [Visual Resources Association (VRA) Cataloging Cultural Objects (CCO)](https://www.vraweb.org/cco){:target="_blank"}
 
 ### Cataloging best practices
