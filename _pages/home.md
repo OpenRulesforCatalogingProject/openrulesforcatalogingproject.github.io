@@ -14,6 +14,6 @@ The Open Rules for Cataloging (ORC) project was initiated in 2019 to create open
 
 This website is ORC's temporary location where drafts of cataloging rules will be uploaded for community review. Once all rules are finalized, they will be posted to a new site for use by catalogers.
 
-To find out more about ORC, visit our [About](/ORC/about/) page. Interested in joining? As a member of the ORC community, you will receive regular updates and have access to the project's Google Drive. To sign up, send a message to the [ORC Google Group](https://groups.google.com/g/openrulesforcataloging).
+To find out more about ORC, visit our [About](/ORC/about/) page. Interested in joining? As a member of the ORC community, you will receive regular updates and have access to the project's Google Drive. To sign up, send a message to the [ORC Google Group](https://groups.google.com/g/openrulesforcataloging). And follow us on our [YouTube channel](https://www.youtube.com/channel/UCWAxYoEdDJcUryqQxgLBprA)! 
 
 ---
