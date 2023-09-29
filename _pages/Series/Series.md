@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Provide feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSd-VwSN3pr7TmccQcY3db5deCfdVN2sVGtrASC9RQdQOeEnzA/viewform){:target="_blank"}.
-
 Series are usually created by the publisher. A publisher assigns a
 separate Series title to a group of resources (such as books, DVDs,
 periodicals, etc.) that have a common subject or theme. They may or may
@@ -44,20 +42,27 @@ access.
 
 >Examples:  
 >  
->490 0\# \$aDepartment of State publication ; \$v7846  
+>490 0\# \$a Time-Life library of art  
 >  
->490 0\# \$aTime-Life library of art  
->  
->490 0\# \$aEthnic groups in American life series  
+>490 0\# \$a Ethnic groups in American life series  
 >    
->490 1\# \$aThe Reference shelf  
->830 \#0 \$a Reference shelf  
+>490 1\# \$a The Reference shelf  
+>830 \#0 \$a Reference shelf.
+>  
+>490 1\# \$a Department of State publication ; \$v 7846. \$a  Department and Foreign Service series ; \$v 128
+>830 \#0 \$a Department of State publication ; \$v 7846.
+>830 \#0 \$a Department of State publication . \$p Department and Foreign Service series ; \$v 128.
+>
+>490 1\# \$a Research in medieval and early modern culture ; \$v XXXV
+>490 1\# \$a Studies in medieval and early modern culture ; \$v LXXXIV
+>830 \#0 \$a Research in medieval and early modern culture ; \$v XXXV.
+>830 \#0 \$a Studies in medieval and early modern culture ; \$v LXXXIV.
 >  
 >Example of grammatically linked Series title:  
 >  
->245 10 \$aAndroid phones for dummies.  
->490 1\# \$aFor dummies  
->830 \#0 \$a--For dummies.
+>245 10 \$a Android phones for dummies.  
+>490 1\# \$a For dummies  
+>830 \#0 \$a --For dummies.
 
 <br>
 
@@ -74,19 +79,19 @@ to bring together resources commonly treated as a series.
 
 >Examples:  
 >  
->245 10 \$aSeasonal associate  
->490 1\# \$aSemiotext(e) native agents series  
->588 \#\# \$aSeries statement from publisher's website.  
->830 \#0 \$aSemiotext(e) native agents series  
+>245 10 \$a Seasonal associate  
+>490 1\# \$a Semiotext(e) native agents series  
+>588 \#\# \$a Series statement from publisher's website.  
+>830 \#0 \$a Semiotext(e) native agents series.  
 >  
->245 10 \$aFiction or nonfiction?  
->490 1\# \$aLibrary skills  
->588 \#\# \$aSeries statement from publisher's website.  
->800 1\# \$aMiller, Shannon \$q(Shannon McClintock). \$tLibrary skills.  
+>245 10 \$a Fiction or nonfiction?  
+>490 1\# \$a Library skills  
+>588 \#\# \$a Series statement from publisher's website.  
+>800 1\# \$a Miller, Shannon \$q (Shannon McClintock). \$t Library skills.  
 >  
->245 10 \$aBarney, a very musical day when Barney goes to the opera  
->490 0\# \$aBarney goes to series  
->500 \#\# \$aSeries created by cataloger.  
+>245 10 \$a Barney, a very musical day when Barney goes to the opera  
+>490 0\# \$a Barney goes to series  
+>500 \#\# \$a Series created by cataloger.  
 
 <br>
 
@@ -114,11 +119,11 @@ the order that they appear.
 
 >Examples:  
 >  
->490 1\# \$aAnnual census of manufactures = \$aRecensement des manufactures, \$x0315-5587  
+>490 1\# \$a Annual census of manufactures = \$a Recensement des manufactures, \$x 0315-5587  
 >  
->490 1\# \$aGrundlagen der Kommunikation und Kognition = \$aFoundations of communication and cognition  
+>490 1\# \$a Grundlagen der Kommunikation und Kognition = \$a Foundations of communication and cognition  
 >  
->490 1\# \$aResearch in text theory, \$x0179-4167 ; \$vv. 14 = \$aUntersuchungen zur Texttheorie  
+>490 1\# \$a Research in text theory ; \$v v. 14 = \$a Untersuchungen zur Texttheorie ; \$v Bd. 14, \$x 0179-4167
 
 <br>
 
@@ -142,11 +147,11 @@ for identification or for clarification of the scope of the resource.
 
 >Examples:  
 >  
->490 1\# \$aDetroit area study, 1971 : social problems and social change in Detroit ; \$vno. 19  
+>490 1\# \$a Detroit area study, 1971 : social problems and social change in Detroit ; \$v no. 19  
 >  
->490 1\# \$aLooking into the past : people, places and customs  
+>490 1\# \$a Looking into the past : people, places and customs  
 >  
->490 1\# \$aDino tales : life guides for families
+>490 1\# \$a Dino tales : life guides for families
 
 <br>
 
@@ -172,15 +177,15 @@ chief source of information or on another prominent place on the item.
 
 >Examples:  
 >  
->490 0\# \$aWild world series / Alan Sloan  
+>490 0\# \$a Wild world series / Alan Sloan  
 >  
->490 0\# \$aDepartment of State publication  
+>490 0\# \$a Department of State publication  
 >  
->490 1\# \$aBulletin / U.S. Department of Labor, Bureau of Labor Statistics  
+>490 1\# \$a Bulletin / U.S. Department of Labor, Bureau of Labor Statistics  
 >  
->490 1\# \$aThe Malloreon / David Eddings ; \$vbk. 2  
+>490 1\# \$a The Malloreon / David Eddings ; \$v bk. 2  
 >  
->490 1\# \$aMemoir / Colorado Archaeological Society
+>490 1\# \$a Memoir / Colorado Archaeological Society
 
 <br>
 
@@ -205,7 +210,7 @@ can come from any source.
 
 >Example:  
 >  
->490 0\# \$aLife series, \$x0023-6721
+>490 0\# \$a Life series, \$x 0023-6721
 
 <br>
 
@@ -219,10 +224,7 @@ issues or items held of the series or multipart monograph.
 -   Source: BIBFRAME \"[enumerationAndChronology](https://id.loc.gov/ontologies/bibframe.html#p_enumerationAndChronology){:target="_blank"},\" modified.
 
 **Rule:** If there is volume, part, or number information on the item,
-transcribe this after the Series title and ISSN (if present). Transcribe
-the volume designation or the date of issue or both, if both appear in
-the series. The date may be dependent on the frequency of publication
-and the usage of the publisher.
+record it after the Series title and ISSN (if present). Record the designation using a standard abbreviation, such as those found in [Appendix A of the CONSER manual](https://www.loc.gov/aba/pcc/conser/conserhold/Captabbr.html){:target="_blank"}.
 
 -   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified.
 
@@ -231,13 +233,11 @@ and the usage of the publisher.
 
 >Examples:  
 >  
->490 1\# \$aWest Virginia University bulletin ; \$vser. 74, no. 11-3  
+>490 1\# \$a West Virginia University bulletin ; \$v ser. 74, no. 11-3  
 >  
->490 0\# \$aMusic educators newsletter ; \$vno.1492  
->  
->490 1\# \$aResearch in Medieval studies ; \$vXVI  
+>490 1\# \$a MPCHT art and anthropological monographs ; \$v no. 35    
 >
->490 1\# \$aLund studies in geography, \$x 1400-1144 ; \$v 101
+>490 1\# \$a Lund studies in geography ; \$v 101, \$x 1400-1144 
 
 <br>
 
@@ -261,8 +261,8 @@ may come from any source.
 
 >Example:  
 >  
->490 1\# \$aThe Convergence saga ; \$vbook one  
->500 \#\# \$aSeries title from jacket.
+>490 1\# \$a The Convergence saga ; \$v book one  
+>500 \#\# \$a Series title from jacket.
 
 <br>
 
