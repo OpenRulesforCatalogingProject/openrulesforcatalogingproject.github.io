@@ -49,13 +49,13 @@ access.
 >490 1\# \$a The Reference shelf  
 >830 \#0 \$a Reference shelf.
 >  
->490 1\# \$a Department of State publication ; \$v 7846. \$a  Department and Foreign Service series ; \$v 128
->830 \#0 \$a Department of State publication ; \$v 7846.
+>490 1\# \$a Department of State publication ; \$v 7846. \$a  Department and Foreign Service series ; \$v 128  
+>830 \#0 \$a Department of State publication ; \$v 7846.  
 >830 \#0 \$a Department of State publication . \$p Department and Foreign Service series ; \$v 128.
->
->490 1\# \$a Research in medieval and early modern culture ; \$v XXXV
->490 1\# \$a Studies in medieval and early modern culture ; \$v LXXXIV
->830 \#0 \$a Research in medieval and early modern culture ; \$v XXXV.
+>  
+>490 1\# \$a Research in medieval and early modern culture ; \$v XXXV  
+>490 1\# \$a Studies in medieval and early modern culture ; \$v LXXXIV  
+>830 \#0 \$a Research in medieval and early modern culture ; \$v XXXV.  
 >830 \#0 \$a Studies in medieval and early modern culture ; \$v LXXXIV.
 >  
 >Example of grammatically linked Series title:  
@@ -199,7 +199,7 @@ multipart monograph, such as an International Standard Serial Number
 
 -   Source: IFLA Element Sets \"[has international standard number of series or multipart monographic resource](https://www.iflastandards.info/isbd/elements#P1030){:target="_blank"},\" modified.
 
-**Rule:** Record the International standard number of the series or
+**Rule:** Record the international standard number of the series or
 multipart monograph if it is known. The international standard number
 can come from any source.
 
@@ -224,7 +224,7 @@ issues or items held of the series or multipart monograph.
 -   Source: BIBFRAME \"[enumerationAndChronology](https://id.loc.gov/ontologies/bibframe.html#p_enumerationAndChronology){:target="_blank"},\" modified.
 
 **Rule:** If there is volume, part, or number information on the item,
-record it after the Series title and ISSN (if present). Record the designation using a standard abbreviation, such as those found in [Appendix A of the CONSER manual](https://www.loc.gov/aba/pcc/conser/conserhold/Captabbr.html){:target="_blank"}.
+record it after the Series title and followed by the ISSN (if present). Record the designation using a standard abbreviation, such as those found in [Appendix A of the CONSER manual](https://www.loc.gov/aba/pcc/conser/conserhold/Captabbr.html){:target="_blank"}.
 
 -   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified.
 
