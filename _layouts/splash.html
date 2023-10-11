@@ -8,7 +8,7 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main" type="center">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -17,7 +17,7 @@ layout: default
 
     <section class="page__content" itemprop="text">
       <a href="https://openrulesforcatalogingproject.github.io/ORC/about/">
-         <img alt="Cover" src="https://openrulesforcatalogingproject.github.io/assets/pictures/ORCSplashPage.jpg"/>
+         <img alt="ORC cover" src="https://openrulesforcatalogingproject.github.io/assets/pictures/ORCSplashPage.jpg"/>
       </a>
     </section>
   </article>
