@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-## July 2023-June 2024
+## July 2023-June 2024 (temporary)
 
 * Faye Leibowitz
 * Denise Soufi
