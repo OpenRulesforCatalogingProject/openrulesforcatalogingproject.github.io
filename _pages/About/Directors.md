@@ -9,7 +9,6 @@ sidebar:
 
 ## July 2023-June 2024 (temporary)
 
-* Faye Leibowitz
 * Denise Soufi
 * Lori Van Deman
 * Eric Willey
