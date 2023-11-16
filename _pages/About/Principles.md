@@ -45,7 +45,7 @@ All efforts should be made to ensure the sharing and reuse of bibliographic and 
 Restrictions on data should be minimal in order to foster transparency and conform to Open Access principles, as declared also in the IFLA Statement on Open Access. Any restriction on data access should be fully stated.
 
 ### 2.12. Accessibility. 
-The access to bibliographic and authority data, as well as searching device functionalities, should comply with international standards for accessibility as recommended in the IFLA Code of Ethics for Librarians and other Information Workers, as well as the [_Cataloging Code of Ethics_](https://sites.google.com/view/cataloging-ethics/home){:target="_blank"}.
+The access to bibliographic and authority data, as well as searching device functionalities, should comply with international standards for accessibility as recommended in the IFLA Code of Ethics for Librarians and other Information Workers, _as well as the_ [_Cataloging Code of Ethics_](https://sites.google.com/view/cataloging-ethics/home){:target="_blank"}.
 
 ### 2.13. Rationality. 
 The rules in a cataloguing code should be defensible and not arbitrary. If, in specific situations, it is not possible to respect all the principles, then defensible, practical solutions should be found and the rationale should be explained.
