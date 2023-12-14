@@ -21,7 +21,7 @@ Vocabulary used in descriptions and access should be in accord with that of the 
 A description should represent a resource as it appears. Controlled forms of names of persons, corporate bodies and families should be _used, with reference to established controlled vocabularies and their rules for creating new headings._
 
 ### 2.4. Accuracy.*
-Bibliographic and authority data should be an accurate portrayal of the entity described. _Accordingly, OCR generally relies on transcription , i.e. the recording of data supplied on the entity, unless it would hinder access for the user_.
+Bibliographic and authority data should be an accurate portrayal of the entity described. _Accordingly, ORC generally relies on transcription , i.e. the recording of data supplied on the entity, unless it would hinder access for the user_.
 
 ### 2.5. Sufficiency and necessity. 
 Those data elements that are required to: facilitate access for all types of users, including those with specific needs; fulfil the objectives and functions of the catalogue; and describe or identify entities, should be included. 
@@ -36,7 +36,7 @@ When alternative ways exist to achieve a goal, preference should be given to the
 Descriptions and construction of access points should be standardized as far as possible to enable consistency.
 
 ### 2.9. Integration. 
-The descriptions for all types of resources and controlled forms of names of all types of entities should be based on a common set of rules to the extent possible. _In the OCR, the focus is on bibliographic resources as commonly encountered in public and academic libraries; extant free cataloging guides such as the DCRM suite are available for use in more complex cataloging_.
+The descriptions for all types of resources and controlled forms of names of all types of entities should be based on a common set of rules to the extent possible. _In the ORC, the focus is on bibliographic resources as commonly encountered in public and academic libraries; extant free cataloging guides such as the DCRM suite are available for use in more complex cataloging_.
 
 ### 2.10. Interoperability. 
 All efforts should be made to ensure the sharing and reuse of bibliographic and authority data within and outside the library community. For the exchange of data and discovery tools, the use of vocabularies facilitating automatic translation and disambiguation is highly recommended.
