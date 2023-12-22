@@ -10,13 +10,13 @@ sidebar:
 ## Current Members
 
 * Lloyd Chittenden
-* Amy Hitchner
+* Amy Hitchner, _co-leader, January 2024-present_
 * Seth Huber
 * Daniel Joudrey
-* Ann Kardos, _co-leader, April 2023-present_
-* Faye Leibowitz, _co-leader, 2021-present_
+* Ann Kardos, _co-leader, April 2023-December 2023_
+* Faye Leibowitz, _co-leader, 2021-2023_
 * Julie Moore
-* Denise Soufi, _co-leader, 2021-March 2023_
+* Denise Soufi, _co-leader, 2021-March 2023, January 2024-present_
 * Sarah Theimer
 * Lauren Wallace
 * Jennifer Weston
