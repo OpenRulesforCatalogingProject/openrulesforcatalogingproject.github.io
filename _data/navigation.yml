@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "Search"
-    url: /Search/
   - title: "Home"
     url: /ORC/
-
+  - title: "Search"
+    url: /Search/
+  - title: "Contact"
+    url: /Contact/
+  
 # side navigation bar
 docs:
   - title: "About"
