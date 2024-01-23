@@ -25,7 +25,7 @@ sidebar:
 ## Past Members
 
 * Misty Alvaro
-* Amber Billey, _founder and past leader, 2019-2020_
+* Billey Albina, _founder and past leader, 2019-2020_
 * Stephanie Fell
 * Kelsey George
 * Nincy George
