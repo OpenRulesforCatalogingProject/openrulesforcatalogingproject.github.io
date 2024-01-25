@@ -9,6 +9,7 @@ sidebar:
 
 ## Current Members
 
+* Karina Andrus
 * Lloyd Chittenden
 * Amy Hitchner, _co-leader, January 2024-present_
 * Seth Huber
