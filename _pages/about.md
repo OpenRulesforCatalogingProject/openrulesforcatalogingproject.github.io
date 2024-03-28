@@ -21,8 +21,10 @@ Special thanks to the RBMS RDA Editorial Group who graciously allowed us clone t
 
 [Board of Directors](/ORC/about/Directors/)
 
-[Core Committee Members](/ORC/about/Core/)
+[Committee Members](/ORC/about/Committees/)
 
 [Board of Reviewers](/ORC/about/Reviewers/)
+
+[Bylaws](/ORC/about/Bylaws/)
 
 ---

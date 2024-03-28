@@ -20,10 +20,12 @@ docs:
         url: /ORC/about/Principles/
       - title: "Board of Directors"
         url: /ORC/about/Directors/
-      - title: "Core Committee Members"
-        url: /ORC/about/Core/   
+      - title: "Committee Members"
+        url: /ORC/about/Committees/   
       - title: "Board of Reviewers"
         url: /ORC/about/Reviewers/
+      - title: "Bylaws"
+        url: /ORC/about/Bylaws/
         
   - title: "Introduction"
     url: /ORC/introduction/

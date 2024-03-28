@@ -1,32 +1,36 @@
 ---
 layout: single
 type: docs
-title: Core Committee Members
-permalink: /ORC/about/Core/
+title: Committee Members
+permalink: /ORC/about/Committees/
 sidebar:
   nav: "docs"
 ---
 
-## Current Members
+## Rules Committee
 
 * Karina Andrus
 * Lloyd Chittenden
-* Amy Hitchner, _co-leader, January 2024-present_
+* Amy Hitchner, _Chair, January 2024-present_
 * Seth Huber
 * Daniel Joudrey
-* Ann Kardos, _co-leader, April 2023-December 2023_
-* Faye Leibowitz, _co-leader, 2021-2023_
+* Ann Kardos, _Chair, August 2023-December 2023_
+* Natalie Kazmin
+* Faye Leibowitz, _Chair, January 2021-July 2023_
 * Julie Moore
-* Denise Soufi, _co-leader, 2021-March 2023, January 2024-present_
 * Sarah Theimer
 * Lauren Wallace
-* Jennifer Weston
 * Vance Woods
 
-## Past Members
+## Tech Committee
+
+* Denise Soufi
+* Jennifer Weston
+
+## Past ORC Core Committee Members
 
 * Misty Alvaro
-* Billey Albina, _founder and past leader, 2019-2020_
+* Billey Albina
 * Stephanie Fell
 * Kelsey George
 * Nincy George
