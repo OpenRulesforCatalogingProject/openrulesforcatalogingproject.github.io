@@ -6,6 +6,10 @@ permalink: /ORC/about/Committees/
 sidebar:
   nav: "docs"
 ---
+## Co-Leaders
+
+* Amy Hitcher, _January 2024-June 2024_
+* Denise Soufi, _January 2021-March 2023, January 2024-June 2024_
 
 ## Rules Committee
 
