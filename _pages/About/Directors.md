@@ -7,6 +7,14 @@ sidebar:
   nav: "docs"
 ---
 
+## July 2024-June 2025
+
+* President: Lloyd Chittenden, Marmot Library Network
+* Vice-President/President Elect: Julie Renee Moore, California State University, Fresno
+* Past President: Denise Soufi, University of North Carolina at Chapel Hill 
+* Secretary: Amy Hitchner, Colorado State Library
+* Treasurer: Eric Willey (1 year interim), Illinois State University
+
 ## July 2023-June 2024
 
 * Denise Soufi
