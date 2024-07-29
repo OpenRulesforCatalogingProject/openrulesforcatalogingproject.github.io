@@ -21,6 +21,8 @@ sidebar:
 * Lori Van Deman
 * Eric Willey
 
+[2024 Annual Report](https://drive.google.com/file/d/1Zlv4uY8tCdigCajlBgDmEvbp9twb8Mt2/view?usp=sharing){:target="_blank"}
+
 ## Past Leaders of ORC Core Committee
 
 * Billey Albina, _founder and leader, 2019-2020_
