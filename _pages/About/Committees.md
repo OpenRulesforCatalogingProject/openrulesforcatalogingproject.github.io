@@ -11,6 +11,7 @@ sidebar:
 
 * Karina Andrus
 * Lloyd Chittenden
+* Sasha Frizzell
 * Amy Hitchner, _Chair, January 2024-present_
 * Seth Huber
 * Ann Kardos, _Chair, August 2023-December 2023_
