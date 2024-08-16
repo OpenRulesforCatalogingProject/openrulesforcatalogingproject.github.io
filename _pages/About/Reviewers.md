@@ -9,10 +9,16 @@ sidebar:
 
 ## August 2024-July 2026
 
+* Francis Alix
 * Bobby Bothmann
-* Sasha Frizzell
+* Diana DiPierro
 * Nincy George
+* Michael Gorman
+* Ceinwen Jones
+* Amanda Mack
 * Gretchen Neidhardt
+* Sarah Spigner
+* Holly Wheeler
 
 ## August 2022-July 2024
 
