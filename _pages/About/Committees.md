@@ -20,6 +20,7 @@ sidebar:
 * Julie Moore
 * Sarah Theimer
 * Lauren Wallace
+* Lynn Whittenberger
 * Vance Woods
 
 ## Tech Committee
