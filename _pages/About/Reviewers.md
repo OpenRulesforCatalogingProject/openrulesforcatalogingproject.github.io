@@ -10,7 +10,8 @@ sidebar:
 ## August 2024-July 2026
 
 * Francis Alix
-* Bobby Bothmann
+* Cíntia Azevedo Lourenço
+* Bobby Bothmann 
 * Diana DiPierro
 * Nincy George
 * Michael Gorman
