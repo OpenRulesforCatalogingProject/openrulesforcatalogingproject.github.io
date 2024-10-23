@@ -129,8 +129,7 @@ titles proper deemed necessary. Optionally, add variant title fields for
 Parallel titles proper if deemed important for discovery.
 
 -   Source: [OLAC](https://cornerstone.lib.mnsu.edu/cgi/viewcontent.cgi?article=1027&context=olac-publications){:target="_blank"} (p. 101); 
-Practical, ethical cataloging practice ([ICP 2.12](https://www.ifla.org/files/assets/cataloguing/icp/icp_2016-en.pdf){:target="_blank"}; 
-[Cataloging Code of Ethics)](https://alair.ala.org/server/api/core/bitstreams/9923a196-d345-4244-a07c-19450965f167/content){:target="_blank"} (Part 2, item 8).
+practical, ethical cataloging practice [Cataloging Code of Ethics)](https://alair.ala.org/server/api/core/bitstreams/9923a196-d345-4244-a07c-19450965f167/content){:target="_blank"} (Part 2, item 8).
 
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$b
@@ -171,7 +170,7 @@ proper. Optionally, if the Subtitle is very lengthy and can be abridged
 without loss of essential information, omit less important words or
 phrases using an ellipsis.
 
--   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=7){:target="_blank"} (p. 13) ; 
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=25){:target="_blank"} (p. 13) ; 
 [DCRMR 1.21.36](https://bsc.rbms.info/DCRMR/title/Title-proper/#12136-abridgments-of-the-title-proper){:target="_blank"}.
 
 **MARC field:**
@@ -237,7 +236,7 @@ identified. Acronyms, initialisms or numbers can be written out where
 appropriate or necessary. Other Variant titles may be added if deemed
 necessary for clarity or access.
 
--   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=7){:target="_blank"} (p. 28).
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=40){:target="_blank"} (p. 28).
 
 **MARC field:**
 [246](https://www.loc.gov/marc/bibliographic/bd246.html){:target="_blank"} \$a
