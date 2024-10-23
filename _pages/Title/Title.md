@@ -369,3 +369,7 @@ and/or local practice. Include a note with an explanation of the source.
 >245 10 \$a Evenings at home, or, the juvenile budget opened / \$c by Dr. Aikin and Mrs. Barbauld.
 >
 >245 10 \$a Cuba : \$b between reform and revolution / \$c Louis A. Pérez, Jr.
+
+<br>
+
+[Return to Contents](#contents)
