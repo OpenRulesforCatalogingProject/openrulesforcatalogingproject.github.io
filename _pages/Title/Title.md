@@ -22,11 +22,11 @@ translations, abbreviations, placement on the item, or multiple parts.
 ## 010100. Title proper (not repeatable)
 
 Definition: The Title proper is the name of the resource being cataloged. An
-Alternative title---a second or additional title connected to the main
+alternative title---a second or additional title connected to the main
 title using words like "or" or equivalent script in another
 language---is part of the Title proper.
 
--   Source: Universal principle expressed in current cataloging codes; [ALA 1908 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=5){:target="_blank"} (p. xvi, 43); 
+-   Source: Universal principle expressed in current cataloging codes; [ALA 1908 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=17){:target="_blank"} (p. xiii, 43); 
 BIBFRAME \"[Title](https://id.loc.gov/ontologies/bibframe.html#p_title){:target="_blank"}\"; 
 [ISBD 2021 1.1.3.4](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}.
 
@@ -44,8 +44,7 @@ or necessary, following conventions found in [LCRI 1.0E](https://www.loc.gov/cat
 If a resource does not bear a title or if it is a compilation with no
 collective title, supply a Title proper found on an outside source, such as the
 publisher's website; if no title can be found then the cataloger may
-create one, following [ISBD 2021 1.A-J]
-(https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
+create one, following [ISBD 2021 1.A-J](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
 and/or local practice. Add a note specifying the source if the Title proper is
 not found on the resource.
 
