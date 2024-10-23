@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 1 - Title
+title: 1 - Title [Draft]
 permalink: /ORC/title/
 sidebar:
   nav: "docs"
@@ -19,7 +19,7 @@ translations, abbreviations, placement on the item, or multiple parts.
 - TOC
 {:toc}
 
-## 010100. Title proper
+## 010100. Title proper (not repeatable)
 
 Definition: The Title proper is the name of the resource being cataloged. An
 Alternative title---a second or additional title connected to the main
@@ -114,7 +114,7 @@ linked statement of responsibility, include it in the Title proper.
 
 [Return to Contents](#contents)
 
-## 010200. Parallel title proper
+## 010200. Parallel title proper (repeatable)
 
 **Definition:** The Parallel title proper is one or more titles in another language and/or script
 from the same source of information as the Title proper.
@@ -160,7 +160,7 @@ carbonate de calcium á la nano-échelle sous forme de poudre : caractéristi
 
 [Return to Contents](#contents) 
 
-## 010300. Subtitle
+## 010300. Subtitle (repeatable)
 
 **Definition:** A word, character, or group of words and/or characters
 that contains the remainder of the title after the Title proper.
@@ -224,7 +224,7 @@ Parliament faithfully abridged, by a Gentleman of the Inner Temple.
 
 [Return to Contents](#contents)
 
-## 010400. Variant Title
+## 010400. Variant Title (repeatable)
 
 **Definition:** A title associated with the resource that is different
 from the Title proper, Parallel title proper, or Subtitle.
@@ -295,7 +295,7 @@ industry 1984-2000 / \$c by Richard G. Tomlinson.
 
 [Return to Contents](#contents)
 
-## 010500. Statement of responsibility relating to title proper
+## 010500. Statement of responsibility relating to title proper (repeatable)
 
 **Definition:** A statement about the persons or corporate bodies
 responsible for significant intellectual or artistic contributions to
