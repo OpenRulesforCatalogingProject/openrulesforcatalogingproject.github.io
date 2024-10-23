@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-*Please proved feedback via this [Google form](https://forms.gle/ehycJHgQeG5NnoFt6){:target="_blank"} by January 31, 2025.*
+*Please provide feedback via this [Google form](https://forms.gle/ehycJHgQeG5NnoFt6){:target="_blank"} by January 31, 2025.*
 
 A Title is the name by which a resource is known, typically assigned by
 the creator or publisher. Titles may have variations due to
