@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 6 - Series (Repeatable) [DRAFT]
+title: 6 - Series [DRAFT]
 permalink: /ORC/series/
 sidebar:
   nav: "docs"
@@ -18,7 +18,7 @@ not be numbered.
 - TOC
 {:toc}
 
-## 060100. Series title
+## 060100. Series title (repeatable)
 
 **Definition:** The Series title is the title of a comprehensive
 publication of which the resource is a part; includes the ISSN if known.
@@ -97,7 +97,7 @@ to bring together resources commonly treated as a series.
 
 [Return to Contents](#contents)
 
-## 060200. Parallel title of a series or multipart monographic resource
+## 060200. Parallel title of a series or multipart monographic resource (repeatable)
 
 **Definition:** A Parallel title of a series is a title in another
 language or script than the Series title that is presented as an
@@ -129,7 +129,7 @@ the order that they appear.
 
 [Return to Contents](#contents)
 
-## 060300. Other title information of a series or multipart monographic resource
+## 060300. Other title information of a series or multipart monographic resource (repeatable)
 
 **Definition:** A word or phrase, or a group of characters, appearing in
 conjunction with or subordinate to the title of the series. Includes
@@ -157,7 +157,7 @@ for identification or for clarification of the scope of the resource.
 
 [Return to Contents](#contents)
 
-## 060400. Statement of responsibility relating to a series
+## 060400. Statement of responsibility relating to a series (repeatable)
 
 **Definition:** Statement relating to any persons, families, or
 corporate bodies responsible for the creation of, or contributing to,
@@ -191,8 +191,8 @@ preferred source of information or on another prominent place on the item.
 
 [Return to Contents](#contents)
 
-## 060500. International standard number of a series or multipart monographic resource
-
+## 060500. International standard number of a series or multipart monographic resource (repeatable)
+ 
 **Definition:** An international standard number relating to a series or
 multipart monograph, such as an International Standard Serial Number
 (ISSN).
@@ -216,7 +216,7 @@ can come from any source.
 
 [Return to Contents](#contents)
 
-## 060600. Numbering within a series or multipart monographic resource
+## 060600. Numbering within a series or multipart monographic resource (repeatable)
 
 **Definition:** Numbering or other enumeration and dates associated with
 issues or items held of the series or multipart monograph.
@@ -243,7 +243,7 @@ record it after the Series title and followed by the ISSN (if present). Record t
 
 [Return to Contents](#contents)
 
-## 060700. Notes on series and multipart monographic resources
+## 060700. Notes on series and multipart monographic resources (repeatable)
 
 **Definition:** A note on the series or multipart monograph.
 
