@@ -73,22 +73,22 @@ linked statement of responsibility, include it in the Title proper.
 >
 >*Cataloger-supplied title*
 >
->245 10 \$a \[Four poems\] / \$c Donald Finkel. 
+>245 10 \$a \[Four poems\] / \$c Donald Finkel.  
 >588 0\# \$a Title supplied by cataloger.
 >
 >*Transliteration of a title*
 >
->245 10 Последние свидетели : ǂb книга недетских рассказов / ǂc Светлана Алексиевич. 
->245 10 Poslednie svideteli : ǂb kniga nedetskikh rasskazov / ǂc Svetlana Aleksievich.
+>245 10 Последние свидетели : ǂb книга недетских рассказов / ǂc Светлана Алексиевич.  
+>245 10 Poslednie svideteli : ǂb kniga nedetskikh rasskazov / ǂc Svetlana Aleksievich. 
 >
 >*Title containing a symbol*
 >
->245 10 \$a I \[love\] a piano 
+>245 10 \$a I \[love\] a piano  
 >500 \#\# \$a On the title page, "love" appears as a heart.
 >
 >*Compilation with no collective title*
 >
->245 00 \$a \[FBI documents regarding the St. Valentine\'s Day massacre\]. 
+>245 00 \$a \[FBI documents regarding the St. Valentine\'s Day massacre\].  
 >500 \#\# \$a Title from GPO Browse Electronic Titles listing.
 >
 >*Title containing number and part names*
@@ -99,12 +99,12 @@ linked statement of responsibility, include it in the Title proper.
 >
 >*Title with introductory statement or phrase*
 >
->245 14 \$a The little mermaid : \$b Ariel above the sea / \$c by Stephanie Calmenson ; illustrated by Franc Mateu. 
+>245 14 \$a The little mermaid : \$b Ariel above the sea / \$c by Stephanie Calmenson ; illustrated by Franc Mateu.  
 >246 3\# \$i At head of title: \$a Walt Disney presents
 >
 >*Title with grammatically linked statement of responsibility*
 >
->245 10 \$a Edward Lear\'s The Scroobious Pip. 
+>245 10 \$a Edward Lear\'s The Scroobious Pip.  
 >246 3\# \$a Scroobious Pip
 >
 >245 14 \$a The narrative of the life of Frederick Douglass.
@@ -145,13 +145,13 @@ Practical, ethical cataloging practice ([ICP 2.12](https://www.ifla.org/files/as
 >*Parallel titles proper with variant title fields*
 >
 >245 10 \$a I︠A︡ vizhu sobaku = \$b Veo un perro = Ich sehe einen Hund =
-Ani roʼeh kelev 
->246 11 \$a Veo un perro 
->246 11 \$a Ich sehe einen Hund 
+Ani roʼeh kelev  
+>246 11 \$a Veo un perro  
+>246 11 \$a Ich sehe einen Hund  
 >246 11 \$a Ani ro'eh kelev
 >
 >*Parallel title proper with subtitles*
-
+>
 > 245 00 \$a Nanotechnologies : \$b nanoscale calcium carbonate in powder form : characteristics and measurement = Nanotechnologies : 
 carbonate de calcium á la nano-échelle sous forme de poudre : caractéristiques et mesurage / \$c \[prepared by Technical Committee ISO/TC 229, Nanotechnologies\].
 
@@ -208,8 +208,8 @@ The whole compiled from undoubted authority, and the acts of Parliament
 faithfully abridged, by a Gentleman of the Inner Temple.
 >
 >*Lengthy subtitle, abridged*
-
-245 02 \$a A collection of voyages and travels, consisting of authentic
+>
+>245 02 \$a A collection of voyages and travels, consisting of authentic
 writers in our own tongue, which have not before been collected in
 English, or have only been abridged in other collections : \$b and
 continued with others of note, that have published histories, voyages,
@@ -246,7 +246,7 @@ necessary for clarity or access.
 >
 >*Titles from title page and spine*
 >
->245 10 \$a Backpacking for fun & fitness 
+>245 10 \$a Backpacking for fun & fitness  
 >246 18 \$a Backpacking for fun and fitness
 >
 >or
@@ -255,7 +255,7 @@ necessary for clarity or access.
 >
 >*Titles from title page and cover*
 >
->245 00 \$a 10 Năm xây dựng và hoạt động của viện nghiên cứu KHKT bảo hộ lao động, 1981-1991. 
+>245 00 \$a 10 Năm xây dựng và hoạt động của viện nghiên cứu KHKT bảo hộ lao động, 1981-1991.  
 >246 34 \$a Mười năm xây dựng và hoạt động của Viện nghiên cứu KHKT bảo hộ lao động, 1981-1991
 >
 >or
@@ -264,30 +264,30 @@ necessary for clarity or access.
 >
 >*Title proper with numbers*
 >
->245 10 \$a Summer of \'42. 
->246 3\# \$a Summer of 1942 
->246 3\# \$a Summer of Forty-two 
+>245 10 \$a Summer of \'42.  
+>246 3\# \$a Summer of 1942  
+>246 3\# \$a Summer of Forty-two  
 >246 3\# \$a Summer of Nineteen Forty-two
 >
 >*Other title*
 >
->245 10 \$a Aliens in the skies : \$b the scientific rebuttal to the Condon Committee report. 
->246 13 \$a Fuller report on unidentified flying objects 
+>245 10 \$a Aliens in the skies : \$b the scientific rebuttal to the Condon Committee report.  
+>246 13 \$a Fuller report on unidentified flying objects  
 >246 33 \$a Fuller report on UFOs
 >
->245 10 \$a ICECS 2003 : \$b proceedings of the 2003 10th IEEE International Conference on Electronics, Circuits, and Systems 
->246 3\# \$a 10th IEEE International Conference on Electronics, Circuits, and Systems 
+>245 10 \$a ICECS 2003 : \$b proceedings of the 2003 10th IEEE International Conference on Electronics, Circuits, and Systems  
+>246 3\# \$a 10th IEEE International Conference on Electronics, Circuits, and Systems  
 >246 3\# \$a Tenth IEEE International Conference on Electronics, Circuits, and Systems
 >
 >*Title with initialism*
 >
->245 10 \$a ISBD : \$b International Standard Bibliographic Description 
+>245 10 \$a ISBD : \$b International Standard Bibliographic Description  
 >246 3\# \$a International Standard Bibliographic Description
 >
 >*Portion of title (with initial article)*
 >
 >245 10 \$a Tele-revolution : \$b telephone competition at the speed of light : a history of the creation of a competitive local telephone
-industry 1984-2000 / \$c by Richard G. Tomlinson. 
+industry 1984-2000 / \$c by Richard G. Tomlinson.  
 >246 30 \$a History of the creation of a competitive local telephone industry 1984-2000
 
 <br>
@@ -347,7 +347,7 @@ and/or local practice. Include a note with an explanation of the source.
 >
 >*Multiple names with the same role, abridged*
 >
-245 10 \$a 25 Jahre Eisenbahn / \$c Volker Dietel \[and others\].
+>245 10 \$a 25 Jahre Eisenbahn / \$c Volker Dietel \[and others\].
 >
 >*Multiple names, complete*
 >
