@@ -12,11 +12,11 @@ sidebar:
 * Karina Andrus
 * Lloyd Chittenden
 * Sasha Frizzell
-* Amy Hitchner, _Chair, January 2024-present_
+* Amy Hitchner, _Chair, Jan.-Oct. 2024; co-chair, Nov. 2024-present_
 * Seth Huber
-* Ann Kardos, _Chair, August 2023-December 2023_
+* Ann Kardos, _Chair, Aug.-Dec. 2023; co-chair, Nov. 2024-present_
 * Natalie Kazmin
-* Faye Leibowitz, _Chair, January 2021-July 2023_
+* Faye Leibowitz, _Chair, Jan. 2021-July 2023_
 * Julie Moore
 * Sarah Theimer
 * Lauren Wallace
