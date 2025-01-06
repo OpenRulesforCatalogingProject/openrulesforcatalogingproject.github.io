@@ -18,6 +18,7 @@ sidebar:
 * Natalie Kazmin
 * Faye Leibowitz, _Chair, Jan. 2021-July 2023_
 * Julie Moore
+* Ashley Peyton
 * Sarah Theimer
 * Lauren Wallace
 * Lynn Whittenberger
