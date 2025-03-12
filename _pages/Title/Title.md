@@ -30,7 +30,7 @@ language---is part of the Title proper.
 BIBFRAME \"[Title](https://id.loc.gov/ontologies/bibframe.html#p_title){:target="_blank"}\"; 
 [ISBD 2021 1.1.3.4](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}.
 
-**Rule:** Transcribe the Title proper from the preferred source of information.
+**Rule:** Transcribe the Title proper.
 Retain the word order, spelling, and punctuation, following [ISBD
 2021 1.A-J](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
 as appropriate. Retain any numbers or part names associated with
@@ -303,8 +303,7 @@ the work.
 [LCRI 1.1F1](https://web.archive.org/web/20200723075649/https://www.loc.gov/cds/PDFdownloads/csb/CSB_013.pdf#page=4){:target="_blank"}.
 
 **Rule:** Transcribe the Statement of responsibility as it appears on
-the preferred source of information or another prominent place on the
-item. If a single name appears, transcribe it. If more than one name
+the resource. If a single name appears, transcribe it. If more than one name
 appears, the cataloger may decide how many (or how few) names to record
 according to local practice. Transcribe titles, honorifics, familial
 terms or essential identifying words. If a Statement of responsibility
