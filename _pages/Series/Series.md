@@ -168,7 +168,7 @@ the content of a series.
 **Rule:** Optional if essential for identification. If all of the
 volumes of the series are by the same personal or corporate author or
 authors, transcribe the Statement of responsibility relating to a series as it appears on the
-preferred source of information or on another prominent place on the item.
+resource.
 
 -   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=44){:target="_blank"} (p. 32), modified.
 
