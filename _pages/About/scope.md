@@ -9,7 +9,7 @@ sidebar:
 
 The Open Rules for Cataloging (ORC) project supports the cataloging
 community in a pragmatic and freely available manner while adhering to
-cataloging ethics and established best practices. The ORC Core Committee
+cataloging ethics and established best practices. The ORC Rules Committee
 endeavors to create guidelines and models that are straightforward,
 comprehensible, and inclusive to all types of library communities. ORC
 guidelines and models strive to be compatible with shared cataloging
