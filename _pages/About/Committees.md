@@ -22,7 +22,6 @@ sidebar:
 * Sarah Theimer
 * Lauren Wallace
 * Lynn Whittenberger
-* Vance Woods
 
 ## Tech Committee
 
@@ -35,7 +34,7 @@ sidebar:
 * Chris Hammermeister
 * Eric Willey, _Chair_
 
-## Past ORC Core Committee Members
+## Past Committee Members
 
 * Misty Alvaro
 * Billey Albina
@@ -51,6 +50,7 @@ sidebar:
 * Deborah Tomaras
 * Lori Van Deman
 * Jim Weinheimer
+* Vance Woods
 * Huma Zafar
 
 ---
