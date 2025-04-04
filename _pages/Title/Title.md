@@ -54,7 +54,7 @@ linked statement of responsibility, include it in the Title proper.
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$a \$n \$p
 
->Examples:
+>**Examples:**
 >
 >*Title transcribed from title page*
 >
@@ -132,7 +132,7 @@ Parallel titles proper if deemed important for discovery.
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$b
 [246](https://www.loc.gov/marc/bibliographic/bd246.html){:target="_blank"} \$a
 
->Examples:
+>**Examples:**
 >
 >*Parallel title proper*
 >
@@ -173,7 +173,7 @@ phrases using an ellipsis.
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$b
 
->Examples:
+>**Examples:**
 >
 >*Subtitle*
 >
@@ -238,7 +238,7 @@ necessary for clarity or access.
 **MARC field:**
 [246](https://www.loc.gov/marc/bibliographic/bd246.html){:target="_blank"} \$a
 
->Examples:
+>**Examples:**
 >
 >*Titles from title page and spine*
 >
@@ -321,7 +321,7 @@ and/or local practice. Include a note with an explanation of the source.
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$c
 
->Examples:
+>**Examples:**
 >
 >*Single personal name*
 >
