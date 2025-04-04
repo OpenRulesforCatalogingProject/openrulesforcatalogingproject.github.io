@@ -126,7 +126,7 @@ titles proper deemed necessary. Optionally, add variant title fields for
 Parallel titles proper if deemed important for discovery.
 
 -   Source: [OLAC](https://cornerstone.lib.mnsu.edu/cgi/viewcontent.cgi?article=1027&context=olac-publications){:target="_blank"} (p. 101); 
-practical, ethical cataloging practice [Cataloging Code of Ethics)](https://alair.ala.org/server/api/core/bitstreams/9923a196-d345-4244-a07c-19450965f167/content){:target="_blank"} (Part 2, item 8).
+[ICP](https://www.ifla.org/files/assets/cataloguing/icp/icp_2016-en.pdf){:target="_blank"}, 2.5 Sufficiency and Necessity (page 5); [Cataloging Code of Ethics)](https://alair.ala.org/server/api/core/bitstreams/9923a196-d345-4244-a07c-19450965f167/content){:target="_blank"} (part 2, item 8).
 
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$b
