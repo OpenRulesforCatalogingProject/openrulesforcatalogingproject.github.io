@@ -123,7 +123,7 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 **Rule:** If the resource being cataloged has edition statements in two or more languages and/or scripts, select as the main edition statement the one in the language of the title proper. Transcribe all Parallel edition statements deemed necessary.
 
-* Source: [OLAC](https://cornerstone.lib.mnsu.edu/cgi/viewcontent.cgi?article=1027&context=olac-publications){:target="_blank"}; 
+* Source: 
 [ICP](https://www.ifla.org/files/assets/cataloguing/icp/icp_2016-en.pdf){:target="_blank"}, 2.5 Sufficiency and Necessity (page 5); 
 [Cataloging Code of Ethics](https://alair.ala.org/server/api/core/bitstreams/9923a196-d345-4244-a07c-19450965f167/content){:target="_blank"} (Part 2, item 8).
 
