@@ -111,7 +111,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 **Definition:** An edition statement in a different language and/or script from the main edition statement.
 
-* Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.2 (revised).
+* Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.2 (modified).
 
 **Rule:** If the resource being cataloged has edition statements in two or more languages and/or scripts, select as the main edition statement the one in the language of the title proper. Transcribe all parallel edition statements deemed necessary.
 
