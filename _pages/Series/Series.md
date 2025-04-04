@@ -40,7 +40,7 @@ access.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
->Examples:  
+>**Examples:**  
 >  
 >490 0\# \$a Time-Life library of art  
 >  
@@ -77,7 +77,7 @@ to bring together resources commonly treated as a series.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
->Examples:  
+>**Examples:**  
 >  
 >245 10 \$a Seasonal associate  
 >490 1\# \$a Semiotext(e) native agents series  
@@ -117,7 +117,7 @@ the order that they appear.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
->Examples:  
+>**Examples:**  
 >  
 >490 1\# \$a Annual census of manufactures = \$a Recensement des manufactures, \$x 0315-5587  
 >  
@@ -145,7 +145,7 @@ for identification or for clarification of the scope of the resource.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
->Examples:  
+>**Examples:**  
 >  
 >490 1\# \$a Detroit area study, 1971 : social problems and social change in Detroit ; \$v no. 19  
 >  
@@ -175,7 +175,7 @@ resource.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
 
->Examples:  
+>**Examples:**  
 >  
 >490 0\# \$a Wild world series / Alan Sloan  
 >  
@@ -231,7 +231,7 @@ record it after the Series title and followed by the ISSN (if present). Record t
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$v
 
->Examples:  
+>**Examples:**  
 >  
 >490 1\# \$a West Virginia University bulletin ; \$v ser. 74, no. 11-3  
 >  
