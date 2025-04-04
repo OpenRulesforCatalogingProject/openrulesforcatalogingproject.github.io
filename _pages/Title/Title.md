@@ -25,11 +25,11 @@ language---is part of the Title proper.
 
 -   Source: Universal principle expressed in current cataloging codes; [ALA 1908 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=17){:target="_blank"} (p. xiii, 43); 
 BIBFRAME \"[Title](https://id.loc.gov/ontologies/bibframe.html#p_title){:target="_blank"}\"; 
-[ISBD 2021 1.1.3.4](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}.
+[ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.1.3.4.
 
 **Rule:** Transcribe the Title proper.
 Retain the word order, spelling, and punctuation, following [ISBD
-2021 1.A-J](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
+2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
 as appropriate. Retain any numbers or part names associated with
 multipart monographs. Provide a transliteration of the Title proper if it
 differs from the script of the language of the cataloging agency, such
@@ -41,7 +41,7 @@ or necessary, following conventions found in [LCRI 1.0E](https://www.loc.gov/cat
 If a resource does not bear a title or if it is a compilation with no
 collective title, supply a Title proper found on an outside source, such as the
 publisher's website; if no title can be found then the cataloger may
-create one, following [ISBD 2021 1.A-J](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
+create one, following [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
 and/or local practice. Add a note specifying the source if the Title proper is
 not found on the resource.
 
@@ -307,15 +307,15 @@ terms or essential identifying words. If a Statement of responsibility
 is grammatically linked to the title, record it as part of the Title
 proper and do not repeat it. If the relationship between the Title  proper and
 Statement of responsibility is not clear, the cataloger can supply a
-bracketed phrase for clarity. Follow [ISBD 2021 1.A-J](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
+bracketed phrase for clarity. Follow [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
 regarding punctuation.
 
 If a Statement of responsibility is not found on the item and is judged
-necessary, add one following [ISBD 2021 1.A-J](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}
+necessary, add one following [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
 and/or local practice. Include a note with an explanation of the source.
 
 -   Source: [LCRI 1.1F1](https://web.archive.org/web/20200723075649/https://www.loc.gov/cds/PDFdownloads/csb/CSB_013.pdf#page=4){:target="_blank"}; 
-[ISBD 2021 1.4.5.2](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}; 
+[ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.4.5.2; 
 [LC-PCC-PS 2.4.1.4](https://original.rdatoolkit.org){:target="_blank"}.
 
 **MARC field:**
