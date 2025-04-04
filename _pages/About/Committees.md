@@ -9,7 +9,6 @@ sidebar:
 
 ## Rules Committee
 
-* Karina Andrus
 * Lloyd Chittenden
 * Sasha Frizzell
 * Amy Hitchner, _Chair, Jan.-Oct. 2024; co-chair, Nov. 2024-present_
