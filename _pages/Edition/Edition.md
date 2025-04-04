@@ -29,7 +29,9 @@ An edition is a distinct version of a resource. Each edition is typically publis
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$a
 
   
->**Examples of edition statement transcribed from the resource:** 
+>**Examples:** 
+>
+>*Edition statement transcribed from the resource*
 >  
 >250 \#\# \$a 2nd edition.  
 >  
@@ -57,7 +59,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 >250 \#\# \$a Revised edition.  
 >500 \#\# \$a "This edition features revised text and art that first appeared in the hardcover edition published by Random House Children's Books, New York, in 2014." \-- Title page verso.  
 >  
->**Examples of edition statement taken from outside the resource:** 
+>*Edition statement taken from outside the resource* 
 >  
 >245 10 \$a Tutankhamun, the last journey / \$c text and photographs by William MacQuitty.  
 >250 \#\# \$a Book club edition.  
@@ -79,7 +81,9 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$b
 
->**Examples of statement of responsibility transcribed fromt the resource:**  
+>**Examples:**  
+>
+>*Statement of responsibility transcribed from the resource*  
 >  
 >245 10 \$a Chorlton's grape grower's guide : \$b a hand-book of the cultivation of the exotic grape / \$c by William Chorlton.  
 >250 \#\# \$a New edition / \$b with descriptions of the later exotic grapes, and a select list of the native varieties by Dr. George Thurber.  
@@ -93,7 +97,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 >245 10 \$a Physical principles of food preservation.  
 >250 \#\# \$a 2nd edition, revised and expanded / \$b Marcus Karel, Daryl B. Lund.  
 >  
->**Examples of cataloger-supplied phrases clarifying responsibility:**  
+>*Cataloger-supplied phrases clarifying responsibility*  
 >  
 >245 10 \$a Meet the natives : \$b a beginner's field guide to Rocky Mountain wild flowers, trees, and shrubs / \$c M. Walter Pesman ; illustrations adapted from drawings by Emma A. Ervin.  
 >250 \#\# \$a 8th ed. / \$b \[prepared by a committee of the\] Denver Botanic Gardens.  
