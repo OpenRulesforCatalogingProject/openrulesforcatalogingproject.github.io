@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 2 - Edition
+title: 2 - Edition [Draft]
 permalink: /ORC/edition/
 sidebar:
   nav: "docs"
@@ -53,7 +53,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 >  
 >250 \#\# \$a 第1版.  
 >  
->245 \1\0 \$a Mummies in the morning / \$c by Mary Pope Osborne ; illustrated by Sal Murdocca.  
+>245 10 \$a Mummies in the morning / \$c by Mary Pope Osborne ; illustrated by Sal Murdocca.  
 >250 \#\# \$a Revised edition.  
 >500 \#\# \$a "This edition features revised text and art that first appeared in the hardcover edition published by Random House Children's Books, New York, in 2014." \-- Title page verso.  
 >  
@@ -69,7 +69,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 <br>
 
-## 020200. Statement of responsibility relating to edition
+## 020200. Statement of responsibility relating to edition (repeatable)
 
 **Definition:** A statement of personal or corporate responsibility that applies only to a particular edition.
 
