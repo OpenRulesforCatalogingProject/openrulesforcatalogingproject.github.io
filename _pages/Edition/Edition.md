@@ -24,7 +24,9 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 - Source: BIBFRAME “[Edition statement](https://id.loc.gov/ontologies/bibframe.html#p_editionStatement){:target="_blank"}\.”
 
-**Rule:** Transcribe the Edition statement. If a resource does not bear an Edition statement but is known to be a distinct edition, record it and add a note for justification. Edition information may be found on an outside source, such as the publisher's website or catalog.  
+**Rule:** Transcribe the Edition statement. If a resource does not bear an Edition statement but is known to be a distinct edition, record it and add a note for justification. Edition information may be found on an outside source, such as the publisher's website or catalog. 
+
+- Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.1.2.  
    
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$a
 
@@ -80,6 +82,8 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 - Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.3.1.
 
 **Rule:** Transcribe the Statement of responsibility from the resource as it applies to the edition. When known and necessary for clarity, supply words or phrases in brackets that make explicit the role of the responsible person or corporate entity.
+
+- Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.3.2.  
 
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$b
 
