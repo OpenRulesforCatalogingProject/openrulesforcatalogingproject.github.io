@@ -71,6 +71,8 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 <br>
 
+[Return to Contents](#contents)
+
 ## 020200. Statement of responsibility relating to edition (repeatable)
 
 **Definition:** A statement of personal or corporate responsibility that applies only to a particular edition.
@@ -106,6 +108,8 @@ An edition is a distinct version of a resource. Each edition is typically publis
 >250 \#\# \$a 17th edition / \$b \[edited by\] Richard E. Behrman, Robert M. Kliegman, Hal B. Jenson.  
 
 <br>
+
+[Return to Contents](#contents)
 
 ## 020300. Parallel edition statement(s) (repeatable)
 
