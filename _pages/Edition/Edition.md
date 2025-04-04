@@ -9,7 +9,7 @@ sidebar:
 
 **Feedback** may be provided through June 6, 2025 via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfNmW_OF2LGSdyogJ0Hk--b2JZ7C_-oLaAKBi-zF4Xi85bm7A/viewform){:target="_blank"}.
 
-An edition is a distinct version of a resource. Each edition is typically published at a different time and differs from other editions via form, added content, or revisions.
+An Edition is a distinct version of a resource. Each edition is typically published at a different time and differs from other editions via form, added content, or revisions.
 
 **Note:** An edition is not the same as a printing.
 
@@ -24,7 +24,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 - Source: BIBFRAME “[Edition statement](https://id.loc.gov/ontologies/bibframe.html#p_editionStatement){:target="_blank"}\.”
 
-**Rule:** Transcribe the edition statement. If a resource does not bear an edition statement but is known to be a distinct edition, record it and add a note for justification. Edition information may be found on an outside source, such as the publisher's website or catalog.  
+**Rule:** Transcribe the Edition statement. If a resource does not bear an Edition statement but is known to be a distinct edition, record it and add a note for justification. Edition information may be found on an outside source, such as the publisher's website or catalog.  
    
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$a
 
@@ -79,7 +79,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 - Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.3.1.
 
-**Rule:** Transcribe the statement of responsibility from the resource as it applies to the edition. When known and necessary for clarity, supply words or phrases in brackets that make explicit the role of the responsible person or corporate entity.
+**Rule:** Transcribe the Statement of responsibility from the resource as it applies to the edition. When known and necessary for clarity, supply words or phrases in brackets that make explicit the role of the responsible person or corporate entity.
 
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$b
 
@@ -117,7 +117,7 @@ An edition is a distinct version of a resource. Each edition is typically publis
 
 * Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.2 (modified).
 
-**Rule:** If the resource being cataloged has edition statements in two or more languages and/or scripts, select as the main edition statement the one in the language of the title proper. Transcribe all parallel edition statements deemed necessary.
+**Rule:** If the resource being cataloged has edition statements in two or more languages and/or scripts, select as the main edition statement the one in the language of the title proper. Transcribe all Parallel edition statements deemed necessary.
 
 * Source: [OLAC](https://cornerstone.lib.mnsu.edu/cgi/viewcontent.cgi?article=1027&context=olac-publications){:target="_blank"}; 
 [ICP](https://www.ifla.org/files/assets/cataloguing/icp/icp_2016-en.pdf){:target="_blank"}, 2.5 Sufficiency and Necessity (page 5); 
