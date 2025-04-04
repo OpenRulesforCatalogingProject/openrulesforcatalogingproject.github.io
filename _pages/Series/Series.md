@@ -208,7 +208,7 @@ can come from any source.
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$x
 
->Example:  
+>**Example:**  
 >  
 >490 0\# \$a Life series, \$x 0023-6721
 
@@ -259,7 +259,7 @@ may come from any source.
 **MARC field:**
 [500](https://www.loc.gov/marc/bibliographic/bd500.html){:target="_blank"} \$a
 
->Example:  
+>**Example:**  
 >  
 >490 1\# \$a The Convergence saga ; \$v book one  
 >500 \#\# \$a Series title from jacket.
