@@ -7,6 +7,14 @@ sidebar:
   nav: "docs"
 ---
 
+## July 2025-June 2026
+
+* President: Julie Renee Moore, California State University, Fresno
+* Vice-President/President Elect: Bobby Bothmann, Minnesota State University, Mankato 
+* Past President: Lloyd Chittenden, Marmot Library Network
+* Secretary: Amy Hitchner, Colorado State Library
+* Treasurer: Denise Soufi, University of North Carolina at Chapel Hill 
+
 ## July 2024-June 2025
 
 * President: Lloyd Chittenden, Marmot Library Network
