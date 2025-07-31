@@ -23,6 +23,8 @@ sidebar:
 * Secretary: Amy Hitchner, Colorado State Library
 * Treasurer: Eric Willey (1 year interim), Illinois State University
 
+[2025 Annual Report](https://drive.google.com/file/d/1_GPaITdOCfgyDBJF4xk3wqr6dqP86Srt/view?usp=drive_link){:target="_blank"}
+
 ## July 2023-June 2024
 
 * Denise Soufi
