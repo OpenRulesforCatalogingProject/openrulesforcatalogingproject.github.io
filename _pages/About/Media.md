@@ -11,7 +11,7 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2025
 
-[WolfCon (video)](https://www.youtube.com/watch?v=I6HqOM1H99U&list=PLMocoPoiGkwcUSiOjdssz_2iXrYwf7cR4&index=4){:target="_blank"}
+[WolfCon (video)](https://www.youtube.com/watch?v=I6HqOM1H99U&list=PLMocoPoiGkwcUSiOjdssz_2iXrYwf7cR4&index=4){:target="_blank"} and 
 [WolfCon (pdf)](https://drive.google.com/file/d/1oh5h-t8mwrTuSDjZkFPx_MUnR_wLCSHf/view?usp=drive_link){:target="_blank"}
 
 Presenters: Lloyd Chittenden, Seth Huber, Natalie R. Kazmin
@@ -38,7 +38,7 @@ Participants: Ann Kardos, Denise Soufi
 
 ## 2022
 
-[NC Serials (video)](https://www.youtube.com/watch?v=0tVEQeSWfzk){:target="_blank"}
+[NC Serials (video)](https://www.youtube.com/watch?v=0tVEQeSWfzk){:target="_blank"} and 
 [NC Serials (pdf)](https://drive.google.com/file/d/1aFqfE35rdCtJnXKjB-z9PmTS35FAGqA5/view?usp=drive_link){:target="_blank"}
 
 Presenters: Faye Leibowitz, Denise Soufi
@@ -52,6 +52,7 @@ Presenters: Faye Leibowitz, Denise Soufi
 [NETSL (pdf)](https://drive.google.com/file/d/1Rt0WoMyMs2vSIEjpb7Qq2cyJcfl-hviw/view?usp=drive_link){:target="_blank"}
 
 Presenters: Billey Albina, Kelly Swickard
+
 
 
 
