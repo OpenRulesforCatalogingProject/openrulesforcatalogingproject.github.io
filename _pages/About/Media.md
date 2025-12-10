@@ -26,11 +26,12 @@ Presenters:
 * Amy Hitchner
 * Julie Renee Moore
 
-Julie at LAC!
-![Photo of Julie Moore with ORC poster](https://drive.google.com/file/d/1rdzwMrSOae_Kd8Rd8Txt_3rEuE_GxCBA/view?usp=drive_link)
+<b>Julie at LAC!</b>
+
+![Photo of Julie Moore with ORC poster](https://github.com/OpenRulesforCatalogingProject/openrulesforcatalogingproject.github.io/blob/main/assets/pictures/2025%20Julie%20Moore%20at%20LAC.jpeg)
 
 ORC poster for LAC
-![Photo of poster](https://drive.google.com/file/d/1JedLkAeAwbrBHi8_VO4H844FUNlGgcuu/view?usp=drive_link)
+![Photo of poster](https://github.com/OpenRulesforCatalogingProject/openrulesforcatalogingproject.github.io/blob/main/assets/pictures/2025%20LAC%20poster.jpeg)
   
 ## 2024
 
@@ -74,4 +75,5 @@ Presenters:
 Presenters:
 *  Billey Albina
 *  Kelly Swickard
+
 
