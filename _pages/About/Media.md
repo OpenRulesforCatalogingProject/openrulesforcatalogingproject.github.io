@@ -20,12 +20,6 @@ Presenters: Lloyd Chittenden, Seth Huber, Natalie R. Kazmin
 
 Presenters: Lloyd Chittenden, Amy Hitchner, Julie Renee Moore
 
-Julie at LAC!
-<img alt="Photo of Julie Moore with ORC poster" src="2025_Julie_Moore_at_LAC.jpeg" "width="400"/>
-
-ORC poster for LAC
-![Photo of poster](2025_LAC_poster.jpeg width="400")
-
 ## 2024
 
 [ORC 2024 update (video)](https://www.youtube.com/watch?v=0cC-mN8PTZo){:target="_blank"}
@@ -58,6 +52,7 @@ Presenters: Faye Leibowitz, Denise Soufi
 [NETSL (pdf)](https://drive.google.com/file/d/1Rt0WoMyMs2vSIEjpb7Qq2cyJcfl-hviw/view?usp=drive_link){:target="_blank"}
 
 Presenters: Billey Albina, Kelly Swickard
+
 
 
 
