@@ -66,7 +66,7 @@ linked statement of responsibility, include it in the Title proper.
 >
 >*Ambiguous title*
 >
->245 14 \$a The Joe Schmo \[stories\]
+>245 14 \$a The Joe Schmo \$b \[stories\]
 >
 >*Cataloger-supplied title*
 >
@@ -75,8 +75,8 @@ linked statement of responsibility, include it in the Title proper.
 >
 >*Transliteration of a title*
 >
->245 10 Последние свидетели : ǂb книга недетских рассказов / ǂc Светлана Алексиевич.  
->245 10 Poslednie svideteli : ǂb kniga nedetskikh rasskazov / ǂc Svetlana Aleksievich. 
+>245 10 Последние свидетели : \$b книга недетских рассказов / \$c Светлана Алексиевич.  
+>245 10 Poslednie svideteli : \$b kniga nedetskikh rasskazov / \$c Svetlana Aleksievich. 
 >
 >*Title containing a symbol*
 >
@@ -92,12 +92,10 @@ linked statement of responsibility, include it in the Title proper.
 >
 >245 10 \$a Skull Cat. \$n Book 1, \$p Skull Cat and the curious castle / \$c Norman Shurtliff.
 >
->245 10 \$a Love from Joy : \$b letters from a farmer\'s wife. \$n Part III, \$p 1987-1995, At the bungalow / \$c by Joycelyn Hope Hormann ; edited by Monica Strain.
->
 >*Title with introductory statement or phrase*
 >
 >245 14 \$a The little mermaid : \$b Ariel above the sea / \$c by Stephanie Calmenson ; illustrated by Franc Mateu.  
->246 3\# \$i At head of title: \$a Walt Disney presents
+>246 3\# \$a Walt Disney presents The little mermaid
 >
 >*Title with grammatically linked statement of responsibility*
 >
@@ -142,9 +140,9 @@ Parallel titles proper if deemed important for discovery.
 >
 >245 10 \$a I︠A︡ vizhu sobaku = \$b Veo un perro = Ich sehe einen Hund =
 Ani roʼeh kelev  
->246 11 \$a Veo un perro  
->246 11 \$a Ich sehe einen Hund  
->246 11 \$a Ani ro'eh kelev
+>246 31 \$a Veo un perro  
+>246 31 \$a Ich sehe einen Hund  
+>246 31 \$a Ani ro'eh kelev
 >
 >*Parallel title proper with subtitles*
 >
@@ -252,7 +250,7 @@ necessary for clarity or access.
 >*Titles from title page and cover*
 >
 >245 00 \$a 10 Năm xây dựng và hoạt động của viện nghiên cứu KHKT bảo hộ lao động, 1981-1991.  
->246 34 \$a Mười năm xây dựng và hoạt động của Viện nghiên cứu KHKT bảo hộ lao động, 1981-1991
+>246 14 \$a Mười năm xây dựng và hoạt động của Viện nghiên cứu KHKT bảo hộ lao động, 1981-1991
 >
 >or
 >
@@ -262,8 +260,8 @@ necessary for clarity or access.
 >
 >245 10 \$a Summer of \'42.  
 >246 3\# \$a Summer of 1942  
->246 3\# \$a Summer of Forty-two  
->246 3\# \$a Summer of Nineteen Forty-two
+>246 3\# \$a Summer of forty-two  
+>246 3\# \$a Summer of nineteen forty-two
 >
 >*Other title*
 >
@@ -272,13 +270,13 @@ necessary for clarity or access.
 >246 33 \$a Fuller report on UFOs
 >
 >245 10 \$a ICECS 2003 : \$b proceedings of the 2003 10th IEEE International Conference on Electronics, Circuits, and Systems  
->246 3\# \$a 10th IEEE International Conference on Electronics, Circuits, and Systems  
->246 3\# \$a Tenth IEEE International Conference on Electronics, Circuits, and Systems
+>246 30 \$a 10th IEEE International Conference on Electronics, Circuits, and Systems  
+>246 30 \$a Tenth IEEE International Conference on Electronics, Circuits, and Systems
 >
 >*Title with initialism*
 >
 >245 10 \$a ISBD : \$b International Standard Bibliographic Description  
->246 3\# \$a International Standard Bibliographic Description
+>246 30 \$a International Standard Bibliographic Description
 >
 >*Portion of title (with initial article)*
 >
@@ -316,7 +314,7 @@ and/or local practice. Include a note with an explanation of the source.
 
 -   Source: [LCRI 1.1F1](https://web.archive.org/web/20200723075649/https://www.loc.gov/cds/PDFdownloads/csb/CSB_013.pdf#page=4){:target="_blank"}; 
 [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.4.5.2; 
-[LC-PCC-PS 2.4.1.4](https://original.rdatoolkit.org){:target="_blank"}.
+[LC-PCC-PS 2.4.1.4](https://original.rdatoolkit.org/document.php?id=lcpschp2&pagenum=4){:target="_blank"}.
 
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$c
@@ -333,7 +331,7 @@ and/or local practice. Include a note with an explanation of the source.
 >
 >*Corporate body*
 >
->245 00 \$a Phantom encounters / \$c by the editors of Time-Life Books.
+>245 00 \$a Phantom encounters / \$c by the editors of Time-Life books.
 >
 >*Statement of responsibility supplied from external source*
 >
@@ -347,6 +345,12 @@ and/or local practice. Include a note with an explanation of the source.
 >*Multiple names, complete*
 >
 > 245 10 \$a 25 Jahre Eisenbahn / \$c Volker Dietel, Johann Strauss, Gerhard Wolf, Manfred Knappe, Werner Markus.
+>
+>*Name with a title, honorific, or familial term*
+>
+>245 14 \$a The revolutionary line of action / \$c by Imam Khumeini.
+>245 10 \$a Life is an adventure / \$c by Mrs. James Smith.
+>245 10 \$a Childe Harold’s pilgrimage / \$c by Lord Byron.
 >
 >*Name with identifying words*
 >
