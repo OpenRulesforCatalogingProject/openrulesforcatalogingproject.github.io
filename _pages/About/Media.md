@@ -11,6 +11,8 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2025
 
+[ORC 2025 update (video)]( https://www.youtube.com/watch?v=gy7yUg-Yb8Q){:target="_blank"}
+
 [WolfCon (video)](https://www.youtube.com/watch?v=I6HqOM1H99U&list=PLMocoPoiGkwcUSiOjdssz_2iXrYwf7cR4&index=4){:target="_blank"} and 
 [WolfCon (pdf)](https://drive.google.com/file/d/1oh5h-t8mwrTuSDjZkFPx_MUnR_wLCSHf/view?usp=drive_link){:target="_blank"}
 
@@ -52,6 +54,7 @@ Presenters: Faye Leibowitz, Denise Soufi
 [NETSL (pdf)](https://drive.google.com/file/d/1Rt0WoMyMs2vSIEjpb7Qq2cyJcfl-hviw/view?usp=drive_link){:target="_blank"}
 
 Presenters: Billey Albina, Kelly Swickard
+
 
 
 
