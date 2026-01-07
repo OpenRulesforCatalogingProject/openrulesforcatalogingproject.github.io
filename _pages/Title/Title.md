@@ -54,50 +54,50 @@ linked statement of responsibility, include it in the Title proper.
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$a \$n \$p
 
->### Examples:
+>**EXAMPLES**
 >
->#### *Title transcribed from title page*
+>**_Title transcribed from title page_**
 >
 >245 10 \$a Anne of Green Gables / \$c by L.M. Montgomery ; illustrated by M.A. and W.A.J. Claus.
 >
->#### *Alternative title*
+>**_Alternative title_**
 >
 >245 10 \$a Frankenstein, or, The modern Prometheus / \$c by Mrs. Shelley.
 >
->#### *Ambiguous title*
+>**_Ambiguous title_**
 >
 >245 14 \$a The Joe Schmo \$b \[stories\]
 >
->#### *Cataloger-supplied title*
+>**_Cataloger-supplied title_**
 >
 >245 10 \$a \[Four poems\] / \$c Donald Finkel.  
 >588 0\# \$a Title supplied by cataloger.
 >
->#### *Transliteration of a title*
+>**_Transliteration of a title_**
 >
 >245 10 Последние свидетели : \$b книга недетских рассказов / \$c Светлана Алексиевич.  
 >245 10 Poslednie svideteli : \$b kniga nedetskikh rasskazov / \$c Svetlana Aleksievich. 
 >
->#### *Title containing a symbol*
+>**_Title containing a symbol_**
 >
 >245 10 \$a I \[love\] a piano  
 >500 \#\# \$a On the title page, "love" appears as a heart.
 >
->#### *Compilation with no collective title*
+>**_Compilation with no collective title_**
 >
 >245 00 \$a \[FBI documents regarding the St. Valentine\'s Day massacre\].  
 >500 \#\# \$a Title from GPO Browse Electronic Titles listing.
 >
->#### *Title containing number and part names*
+>**_Title containing number and part names_**
 >
 >245 10 \$a Skull Cat. \$n Book 1, \$p Skull Cat and the curious castle / \$c Norman Shurtliff.
 >
->#### *Title with introductory statement or phrase*
+>**_Title with introductory statement or phrase_**
 >
 >245 14 \$a The little mermaid : \$b Ariel above the sea / \$c by Stephanie Calmenson ; illustrated by Franc Mateu.  
 >246 3\# \$a Walt Disney presents The little mermaid
 >
->#### *Title with grammatically linked statement of responsibility*
+>**_Title with grammatically linked statement of responsibility_**
 >
 >245 10 \$a Edward Lear\'s The Scroobious Pip.  
 >246 3\# \$a Scroobious Pip
