@@ -130,13 +130,13 @@ Parallel titles proper if deemed important for discovery.
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$b
 [246](https://www.loc.gov/marc/bibliographic/bd246.html){:target="_blank"} \$a
 
->**Examples:**
+>**EXAMPLES**
 >
->*Parallel title proper*
+>**_Parallel title proper_**
 >
 >245 10 \$a Ah che la morte ognora = \$b Ah I have sighed to rest me
 >
->*Parallel titles proper with variant title fields*
+>**_Parallel titles proper with variant title fields_**
 >
 >245 10 \$a I︠A︡ vizhu sobaku = \$b Veo un perro = Ich sehe einen Hund =
 Ani roʼeh kelev  
@@ -144,7 +144,7 @@ Ani roʼeh kelev
 >246 31 \$a Ich sehe einen Hund  
 >246 31 \$a Ani ro'eh kelev
 >
->*Parallel title proper with subtitles*
+>**_Parallel title proper with subtitles_**
 >
 > 245 00 \$a Nanotechnologies : \$b nanoscale calcium carbonate in powder form : characteristics and measurement = Nanotechnologies : 
 carbonate de calcium á la nano-échelle sous forme de poudre : caractéristiques et mesurage / \$c \[prepared by Technical Committee ISO/TC 229, Nanotechnologies\].
@@ -171,13 +171,13 @@ phrases using an ellipsis.
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$b
 
->**Examples:**
+>**EXAMPLES**
 >
->*Subtitle*
+>**_Subtitle_**
 >
 >245 04 \$a The baby's bouquet : \$b a fresh bunch of old rhymes and tunes
 >
->*Lengthy subtitle, complete*
+>**_Lengthy subtitle, complete_**
 >
 >245 02 \$a A collection of voyages and travels, consisting of authentic
 writers in our own tongue, which have not before been collected in
@@ -201,7 +201,7 @@ explain many obscure passages in other collections of this kind / \$c
 The whole compiled from undoubted authority, and the acts of Parliament
 faithfully abridged, by a Gentleman of the Inner Temple.
 >
->*Lengthy subtitle, abridged*
+>**_Lengthy subtitle, abridged_**
 >
 >245 02 \$a A collection of voyages and travels, consisting of authentic
 writers in our own tongue, which have not before been collected in
@@ -236,9 +236,9 @@ necessary for clarity or access.
 **MARC field:**
 [246](https://www.loc.gov/marc/bibliographic/bd246.html){:target="_blank"} \$a
 
->**Examples:**
+>**EXAMPLES**
 >
->*Titles from title page and spine*
+>**_Titles from title page and spine_**
 >
 >245 10 \$a Backpacking for fun & fitness  
 >246 18 \$a Backpacking for fun and fitness
@@ -247,7 +247,7 @@ necessary for clarity or access.
 >
 >246 1\# \$i Spine title: \$a Backpacking for fun and fitness
 >
->*Titles from title page and cover*
+>**_Titles from title page and cover_**
 >
 >245 00 \$a 10 Năm xây dựng và hoạt động của viện nghiên cứu KHKT bảo hộ lao động, 1981-1991.  
 >246 14 \$a Mười năm xây dựng và hoạt động của Viện nghiên cứu KHKT bảo hộ lao động, 1981-1991
@@ -256,14 +256,14 @@ necessary for clarity or access.
 >
 >246 1\# \$i Cover title: \$a Mười năm xây dựng và hoạt động của Viện nghiên cứu KHKT bảo hộ lao động, 1981-1991
 >
->*Title proper with numbers*
+>**_Title proper with numbers_**
 >
 >245 10 \$a Summer of \'42.  
 >246 3\# \$a Summer of 1942  
 >246 3\# \$a Summer of forty-two  
 >246 3\# \$a Summer of nineteen forty-two
 >
->*Other title*
+>**_Other title_**
 >
 >245 10 \$a Aliens in the skies : \$b the scientific rebuttal to the Condon Committee report.  
 >246 13 \$a Fuller report on unidentified flying objects  
@@ -273,12 +273,12 @@ necessary for clarity or access.
 >246 30 \$a 10th IEEE International Conference on Electronics, Circuits, and Systems  
 >246 30 \$a Tenth IEEE International Conference on Electronics, Circuits, and Systems
 >
->*Title with initialism*
+>**_Title with initialism_**
 >
 >245 10 \$a ISBD : \$b International Standard Bibliographic Description  
 >246 30 \$a International Standard Bibliographic Description
 >
->*Portion of title (with initial article)*
+>**_Portion of title (with initial article)_**
 >
 >245 10 \$a Tele-revolution : \$b telephone competition at the speed of light : a history of the creation of a competitive local telephone
 industry 1984-2000 / \$c by Richard G. Tomlinson.  
@@ -319,52 +319,52 @@ and/or local practice. Include a note with an explanation of the source.
 **MARC field:**
 [245](https://www.loc.gov/marc/bibliographic/bd245.html){:target="_blank"} \$c
 
->**Examples:**
+>**EXAMPLES**
 >
->*Single personal name*
+>**_Single personal name_**
 >
 > 245 14 \$a The Plantagenets : \$b the warrior kings and queens who made England / \$c Dan Jones.
 >
->*Multiple personal names with different roles*
+>**_Multiple personal names with different roles_**
 >
 > 245 14 \$a The story of buildings : \$b from the Pyramids to the Sydney Opera House and beyond / \$c written by Patrick Dillon ; illustrated by Stephen Biesty.
 >
->*Corporate body*
+>**_Corporate body_**
 >
 >245 00 \$a Phantom encounters / \$c by the editors of Time-Life books.
 >
->*Statement of responsibility supplied from external source*
+>**_Statement of responsibility supplied from external source_**
 >
 >245 10 \$a Master builder respawned / \$c \[Jeff Cork\]. 
 >588 0\# \$a Statement of responsibility taken from publisher\'s website, www.triumphbooks.com.
 >
->*Multiple names with the same role, abridged*
+>**_Multiple names with the same role, abridged_**
 >
 >245 10 \$a 25 Jahre Eisenbahn / \$c Volker Dietel \[and others\].
 >
->*Multiple names, complete*
+>**_Multiple names, complete_**
 >
 > 245 10 \$a 25 Jahre Eisenbahn / \$c Volker Dietel, Johann Strauss, Gerhard Wolf, Manfred Knappe, Werner Markus.
 >
->*Name with a title, honorific, or familial term*
+>**_Name with a title, honorific, or familial term_**
 >
 >245 14 \$a The revolutionary line of action / \$c by Imam Khumeini.
 >245 10 \$a Life is an adventure / \$c by Mrs. James Smith.
 >245 10 \$a Childe Harold’s pilgrimage / \$c by Lord Byron.
 >
->*Name with identifying words*
+>**_Name with identifying words_**
 >
 >245 10 \$a Git-r-done / \$c Larry the Cable Guy.
 >
->*Statement of responsibility grammatically linked to title*
+>**_Statement of responsibility grammatically linked to title_**
 >
 >245 14 \$a The narrative of the life of Frederick Douglass.
 >
->*Cataloger-supplied relationship statement*
+>**_Cataloger-supplied relationship statement_**
 >
 > 245 14 \$a The way of silence : \$b the prose and poetry of Basho / \$c \[edited by\] Richard Lewis ; photos by Helen Buttfield.
 >
-> *Transcribed with family terms or honorifics*
+> **_Transcribed with family terms or honorifics_**
 >
 >245 10 \$a Evenings at home, or, the juvenile budget opened / \$c by Dr. Aikin and Mrs. Barbauld.
 >
