@@ -35,7 +35,7 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2023
 
-[Advanced Cataloging Class at University of North Carolina at Greensboro](https://drive.google.com/file/d/12O-2w5VEyGjwkLlAMuhHZ_UvUhSgEb3g/view?usp=drive_link){:target="_blank"}
+[Advanced Cataloging Class, University of North Carolina at Greensboro](https://drive.google.com/file/d/12O-2w5VEyGjwkLlAMuhHZ_UvUhSgEb3g/view?usp=drive_link){:target="_blank"}
 
 - Presenters: Ann Kardos, Denise Soufi
 
@@ -54,13 +54,18 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 [Amigos Library Services (pdf)](https://drive.google.com/file/d/1rrRZ42IX3wiD_C_GWADE0OaJtjxZQsHH/view?usp=drive_link){:target="_blank"}
 
-- Presenters: Faye Leibowitz, Denise Soufi
+- Presenters: Denise Soufi, Sarah Theimer
 
 ## 2021
 
-[NETSL (pdf)](https://drive.google.com/file/d/1Rt0WoMyMs2vSIEjpb7Qq2cyJcfl-hviw/view?usp=drive_link){:target="_blank"}
+**<ins>Chartered Institute of Information Professionals (CILIP)</ins>**
+
+- Presenter: Sarah Theimer
+
+[New England Technical Services Librarians (NETSL) (pdf)](https://drive.google.com/file/d/1Rt0WoMyMs2vSIEjpb7Qq2cyJcfl-hviw/view?usp=drive_link){:target="_blank"}
 
 - Presenters: Billey Albina, Kelly Swickard
+
 
 
 
