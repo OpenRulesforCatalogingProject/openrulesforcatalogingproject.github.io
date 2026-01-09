@@ -6,9 +6,6 @@ permalink: /ORC/edition/
 sidebar:
   nav: "docs"
 ---
-
-**Feedback** may be provided through June 6, 2025 via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfNmW_OF2LGSdyogJ0Hk--b2JZ7C_-oLaAKBi-zF4Xi85bm7A/viewform){:target="_blank"}.
-
 An Edition is a distinct version of a resource. Each edition is typically published at a different time and differs from other editions via form, added content, or revisions.
 
 **Note:** An edition is not the same as a printing.
@@ -31,9 +28,9 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$a
 
   
->**Examples:** 
+>**EXAMPLES** 
 >
->*Edition statement transcribed from the resource*
+>**_Edition statement transcribed from the resource_**
 >  
 >250 \#\# \$a 2nd edition.  
 >  
@@ -61,7 +58,7 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 >250 \#\# \$a Revised edition.  
 >500 \#\# \$a "This edition features revised text and art that first appeared in the hardcover edition published by Random House Children's Books, New York, in 2014." \-- Title page verso.  
 >  
->*Edition statement taken from outside the resource* 
+>**_Edition statement taken from outside the resource_** 
 >  
 >245 10 \$a Tutankhamun, the last journey / \$c text and photographs by William MacQuitty.  
 >250 \#\# \$a Book club edition.  
@@ -87,9 +84,9 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$b
 
->**Examples:**  
+>**EXAMPLES**  
 >
->*Statement of responsibility transcribed from the resource*  
+>**_Statement of responsibility transcribed from the resource_**  
 >  
 >245 10 \$a Chorlton's grape grower's guide : \$b a hand-book of the cultivation of the exotic grape / \$c by William Chorlton.  
 >250 \#\# \$a New edition / \$b with descriptions of the later exotic grapes, and a select list of the native varieties by Dr. George Thurber.  
@@ -103,7 +100,7 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 >245 10 \$a Physical principles of food preservation.  
 >250 \#\# \$a 2nd edition, revised and expanded / \$b Marcus Karel, Daryl B. Lund.  
 >  
->*Cataloger-supplied phrases clarifying responsibility*  
+>**_Cataloger-supplied phrases clarifying responsibility_**  
 >  
 >245 10 \$a Meet the natives : \$b a beginner's field guide to Rocky Mountain wild flowers, trees, and shrubs / \$c M. Walter Pesman ; illustrations adapted from drawings by Emma A. Ervin.  
 >250 \#\# \$a 8th ed. / \$b \[prepared by a committee of the\] Denver Botanic Gardens.  
@@ -129,15 +126,14 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$b
 
->**Examples:**  
+>**EXAMPLES**  
 >  
 >245 \#\#  \$a Concise Oxford-Hachette French dictionary : \$b French-English, English-French / \$c edited by Marie-Hélène Corréard, Valerie Grundy \= Le dictionnaire Hachette-Oxford concise : français-anglais, anglais-français / sous la direction éditoriale de Marie-Hélène Corréard, Valerie Grundy.  
 >250 \#\# \$a 4th ed. \= \$b 4e éd. / edited by Jean-Benoit Ormal-Grenon, Joanna Rubery \= sous la direction éditoriale de Jean-Benoit Ormal-Grenon, Joanna Rubery.  
 >  
 >245 00 \$a Arktiske Norge \= \$b Arctic Norway \= Das Arktische Norwegen \= La Norvège Arctique.  
->250 \#\# \$a Første utgave \= \$b First edition \= Erste ausgabe \= Première édition.  
-
+>250 \#\# \$a Første utgave \= \$b First edition \= Erste ausgabe \= Première édition.
+>
 <br>
 
 [Return to Contents](#contents)
----
