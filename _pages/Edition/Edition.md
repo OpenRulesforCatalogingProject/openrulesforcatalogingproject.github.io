@@ -133,7 +133,7 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 >  
 >245 00 \$a Arktiske Norge \= \$b Arctic Norway \= Das Arktische Norwegen \= La Norvège Arctique.  
 >250 \#\# \$a Første utgave \= \$b First edition \= Erste ausgabe \= Première édition.
->
+
 <br>
 
 [Return to Contents](#contents)
