@@ -58,13 +58,14 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2021
 
-**<ins>Chartered Institute of Information Professionals (CILIP)</ins>**
+[Chartered Institute of Information Professionals (CILIP) (pdf)](https://drive.google.com/file/d/1xpe4AR-p9nrAAlsCIQOWDmnl3YZosZGX/view?usp=drive_link){:target="_blank"}
 
-- Presenter: Sarah Theimer
+- Presenter: Billey Albina, Sarah Theimer
 
 [New England Technical Services Librarians (NETSL) (pdf)](https://drive.google.com/file/d/1Rt0WoMyMs2vSIEjpb7Qq2cyJcfl-hviw/view?usp=drive_link){:target="_blank"}
 
 - Presenters: Billey Albina, Kelly Swickard
+
 
 
 
