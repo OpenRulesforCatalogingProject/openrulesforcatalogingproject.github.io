@@ -18,7 +18,7 @@ sidebar:
 * Faye Leibowitz, _Chair, Jan. 2021-July 2023_
 * Kara Long
 * Julie Moore
-* Ashley Peyton
+* Ashley Poteate
 * Sarah Theimer
 * Lauren Wallace
 * Lynn Whittenberger
