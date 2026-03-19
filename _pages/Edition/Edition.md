@@ -23,7 +23,7 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 **Rule:** Transcribe the Edition statement. If a resource does not bear an Edition statement but is known to be a distinct edition, record it and add a note for justification. Edition information may be found on an outside source, such as the publisher's website or catalog. 
 
-- Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.1.2.  
+- Source: [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 2.1.2.  
    
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$a
 
@@ -76,11 +76,11 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 **Definition:** A statement of personal or corporate responsibility that applies only to a particular edition.
 
-- Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.3.1.
+- Source: [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 2.3.1.
 
 **Rule:** Transcribe the Statement of responsibility from the resource as it applies to the edition. When known and necessary for clarity, supply words or phrases in brackets that make explicit the role of the responsible person or corporate entity.
 
-- Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.3.2.  
+- Source: [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 2.3.2.  
 
 **MARC field:** [250](https://www.loc.gov/marc/bibliographic/bd250.html){:target="_blank"} \$b
 
@@ -116,7 +116,7 @@ An Edition is a distinct version of a resource. Each edition is typically publis
 
 **Definition:** An edition statement in a different language and/or script from the main edition statement.
 
-* Source: [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 2.2 (modified).
+* Source: [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 2.2 (modified).
 
 **Rule:** If the resource being cataloged has edition statements in two or more languages and/or scripts, select as the main edition statement the one in the language of the title proper. Transcribe all Parallel edition statements deemed necessary.
 
