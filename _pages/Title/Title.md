@@ -29,7 +29,7 @@ BIBFRAME \"[Title](https://id.loc.gov/ontologies/bibframe.html#p_title){:target=
 
 **Rule:** Transcribe the Title proper.
 Retain the word order, spelling, and punctuation, following [ISBD
-2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
+2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 1.A-J
 as appropriate. Retain any numbers or part names associated with
 multipart monographs. Provide a transliteration of the Title proper if it
 differs from the script of the language of the cataloging agency, such
@@ -41,7 +41,7 @@ or necessary, following conventions found in [LCRI 1.0E](https://www.loc.gov/cat
 If a resource does not bear a title or if it is a compilation with no
 collective title, supply a Title proper found on an outside source, such as the
 publisher's website; if no title can be found then the cataloger may
-create one, following [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
+create one, following [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 1.A-J
 and/or local practice. Add a note specifying the source if the Title proper is
 not found on the resource.
 
@@ -305,7 +305,7 @@ terms or essential identifying words. If a Statement of responsibility
 is grammatically linked to the title, record it as part of the Title
 proper and do not repeat it. If the relationship between the Title  proper and
 Statement of responsibility is not clear, the cataloger can supply a
-bracketed phrase for clarity. Follow [ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.A-J
+bracketed phrase for clarity. Follow [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 1.A-J
 regarding punctuation.
 
 If a Statement of responsibility is not found on the item and is judged
