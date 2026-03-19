@@ -25,7 +25,7 @@ language---is part of the Title proper.
 
 -   Source: Universal principle expressed in current cataloging codes; [ALA 1908 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=17){:target="_blank"} (p. xiii, 43); 
 BIBFRAME \"[Title](https://id.loc.gov/ontologies/bibframe.html#p_title){:target="_blank"}\"; 
-[ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.1.3.4.
+[ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 1.1.3.4.
 
 **Rule:** Transcribe the Title proper.
 Retain the word order, spelling, and punctuation, following [ISBD
