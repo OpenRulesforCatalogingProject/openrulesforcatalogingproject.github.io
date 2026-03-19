@@ -313,7 +313,7 @@ necessary, add one following [ISBD 2021](https://repository.ifla.org/server/api/
 and/or local practice. Include a note with an explanation of the source.
 
 -   Source: [LCRI 1.1F1](https://web.archive.org/web/20200723075649/https://www.loc.gov/cds/PDFdownloads/csb/CSB_013.pdf#page=4){:target="_blank"}; 
-[ISBD 2021](https://repository.ifla.org/server/api/core/bitstreams/202c522c-82e9-41ae-ab7c-d7227070142c/content){:target="_blank"}, 1.4.5.2; 
+[ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 1.4.5.2; 
 [LC-PCC-PS 2.4.1.4](https://original.rdatoolkit.org/document.php?id=lcpschp2&pagenum=4){:target="_blank"}; [LC-PCC-PS 2.4.2](https://original.rdatoolkit.org/document.php?id=lcpschp2&pagenum=4){:target="_blank"}.
 
 **MARC field:**
