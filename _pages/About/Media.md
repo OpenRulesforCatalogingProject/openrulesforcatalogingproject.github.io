@@ -9,6 +9,12 @@ sidebar:
 
 Presentations, podcasts, and project updates by ORC members since 2021. Updates can also be found on our [YouTube Channel](https://www.youtube.com/channel/UCWAxYoEdDJcUryqQxgLBprA){:target="_blank"}.
 
+## 2026
+
+[Cataloging Class, University of North Carolina at Chapel Hill (pdf)](https://drive.google.com/file/d/1-KdKvkkrnz8OHegSVKcvKbwkalX5JnsK/view?usp=drive_link){:target="_blank"}
+
+-Presenters: Amy Hitchner, Denise Soufi
+
 ## 2025
 
 [ORC 2025 update (video)]( https://www.youtube.com/watch?v=gy7yUg-Yb8Q){:target="_blank"}
@@ -35,7 +41,7 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2023
 
-[Advanced Cataloging Class, University of North Carolina at Greensboro](https://drive.google.com/file/d/12O-2w5VEyGjwkLlAMuhHZ_UvUhSgEb3g/view?usp=drive_link){:target="_blank"}
+[Advanced Cataloging Class, University of North Carolina at Greensboro (pdf)](https://drive.google.com/file/d/12O-2w5VEyGjwkLlAMuhHZ_UvUhSgEb3g/view?usp=drive_link){:target="_blank"}
 
 - Presenters: Ann Kardos, Denise Soufi
 
