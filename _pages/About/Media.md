@@ -13,7 +13,7 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 [Cataloging Class, University of North Carolina at Chapel Hill (pdf)](https://drive.google.com/file/d/1-KdKvkkrnz8OHegSVKcvKbwkalX5JnsK/view?usp=drive_link){:target="_blank"}
 
--Presenters: Amy Hitchner, Denise Soufi
+- Presenters: Amy Hitchner, Denise Soufi
 
 ## 2025
 
