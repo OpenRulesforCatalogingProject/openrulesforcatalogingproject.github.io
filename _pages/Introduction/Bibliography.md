@@ -10,7 +10,7 @@ sidebar:
 ORC uses out of copyright and open access cataloging resources as the basis for developing its rules.
 
 * ALA 1908 rules = [Catalog Rules: Author and Title Entries. Chicago: ALA, 1908](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033881775&view=1up&seq=5){:target="_blank"}
-* BIBFRAME = [BIBFRAME 2.2.0 vocabulary](https://id.loc.gov/ontologies/bibframe.html){:target="_blank"}
+* BIBFRAME = [BIBFRAME Onotology](https://id.loc.gov/ontologies/bibframe.html){:target="_blank"}
 * Cataloging Code of Ethics = [Cataloging Code of Ethics. Cataloging Ethics Steering Committee, ALA, 2021](https://alair.ala.org/server/api/core/bitstreams/9923a196-d345-4244-a07c-19450965f167/content){:target="_blank"}
 * DCRMR = [Descriptive Cataloging of Rare Materials (RDA Edition)](https://bsc.rbms.info/DCRMR/){:target="_blank"} ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"})
 * ICP = [IFLA Statement of International Cataloguing Principles.Netherlands: IFLA, 2016](https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/icp/icp_2016-en.pdf){:target="_blank"} ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"})
