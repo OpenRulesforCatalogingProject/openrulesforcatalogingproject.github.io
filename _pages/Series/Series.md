@@ -25,7 +25,7 @@ publication of which the resource is a part; includes the ISSN if known.
 
 -   Source: BIBFRAME \"[Series](https://id.loc.gov/ontologies/bibframe.html#c_Series){:target="_blank"}\"; [LCRI 1.0](http://www.loc.gov/cds/PDFdownloads/csb/CSB_113.pdf){:target="_blank"} (p. 16).
 
-**Rule:** Record the Series title in a series statement.
+**Rule:** Transcribe the Series title in a series statement.
 
 Transcribe the titles of all the series of which the resource is a part.
 If there is an inaccuracy in the Series title, transcribe it as it
@@ -108,7 +108,7 @@ equivalent of the Title proper on the item.
 **Rule:** If the Series title appears in more than one language, choose
 the same language as the Title proper for the Series title. If the
 resource being cataloged has Series titles in two or more languages,
-record all Parallel titles of series deemed necessary. Optionally, add a
+transcribe all Parallel titles of series deemed necessary. Optionally, add a
 note describing the languages of the recorded Parallel titles of series in
 the order that they appear.
 
