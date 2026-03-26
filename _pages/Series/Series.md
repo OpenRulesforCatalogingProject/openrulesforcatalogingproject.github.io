@@ -112,7 +112,7 @@ record all Parallel titles of series deemed necessary. Optionally, add a
 note describing the languages of the recorded Parallel titles of series in
 the order that they appear.
 
--   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=43){:target="_blank"} (p. 31), modified; [LCRI 1.6C](https://www.loc.gov/cds/PDFdownloads/csb/CSB_079.pdf){:target="_blank"} (p. 12), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=43){:target="_blank"} (p. 31), modified; [LCRI 1.6C](https://www.loc.gov/cds/PDFdownloads/csb/CSB_079.pdf){:target="_blank"} (p. 12), modified; [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 6.2.1.
 
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
@@ -140,7 +140,7 @@ what is commonly known as the subtitle.
 **Rule:** Transcribe Other title information of a series if necessary
 for identification or for clarification of the scope of the resource.
 
--   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified; [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 6.3.1.
 
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$a
@@ -203,7 +203,7 @@ multipart monograph, such as an International Standard Serial Number
 multipart monograph if it is known. The international standard number
 can come from any source.
 
--   Source: Universal principle expressed in current cataloging codes.
+-   Source: [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 6.5.1, modified; Universal principle expressed in current cataloging codes.
 
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$x
@@ -224,9 +224,9 @@ issues or items held of the series or multipart monograph.
 -   Source: BIBFRAME \"[enumerationAndChronology](https://id.loc.gov/ontologies/bibframe.html#p_enumerationAndChronology){:target="_blank"},\" modified.
 
 **Rule:** If there is volume, part, or number information on the item,
-record it after the Series title and followed by the ISSN (if present). Record the designation using a standard abbreviation, such as those found in [Appendix A of the CONSER manual](https://www.loc.gov/aba/pcc/conser/conserhold/Captabbr.html){:target="_blank"}.
+record it after the Series title and the ISSN (if present). Record the designation using a standard abbreviation, such as those found in [Appendix A of the CONSER manual](https://www.loc.gov/aba/pcc/conser/conserhold/Captabbr.html){:target="_blank"}.
 
--   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified.
+-   Source: [LC 1949 rules](https://babel.hathitrust.org/cgi/pt?id=mdp.39015030341799&view=1up&seq=65){:target="_blank"} (p. 53), modified; [ISBD 2021](https://repository.ifla.org/items/241dfed4-58f2-4c19-be99-56745e600df0){:target="_blank"}, 6.6.1.
 
 **MARC field:**
 [490](https://www.loc.gov/marc/bibliographic/bd490.html){:target="_blank"} \$v
@@ -237,7 +237,7 @@ record it after the Series title and followed by the ISSN (if present). Record t
 >  
 >490 1\# \$a MPCHT art and anthropological monographs ; \$v no. 35    
 >
->490 1\# \$a Lund studies in geography ; \$v 101, \$x 1400-1144 
+>490 1\# \$a Lund studies in geography, \$x 1400-1144 ; \$v 101 
 
 <br>
 
