@@ -29,12 +29,6 @@ sidebar:
 * Denise Soufi
 * Jennifer Weston
 
-## Nominating Committee 2024
-
-* Francis Alix
-* Chris Hammermeister
-* Eric Willey, _Chair_
-
 ## Past Committee Members
 
 * Misty Alvaro
