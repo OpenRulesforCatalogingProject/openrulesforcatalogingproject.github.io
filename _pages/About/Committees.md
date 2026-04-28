@@ -16,6 +16,7 @@ sidebar:
 * Ann Kardos, _Chair, Aug.-Dec. 2023; co-chair, Nov. 2024-present_
 * Natalie Kazmin
 * Faye Leibowitz, _Chair, Jan. 2021-July 2023_
+* Mary Finn
 * Kara Long
 * Julie Moore
 * Ashley Poteate
