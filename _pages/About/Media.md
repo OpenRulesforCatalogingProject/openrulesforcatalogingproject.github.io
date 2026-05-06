@@ -15,6 +15,14 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 - Presenters: Amy Hitchner, Denise Soufi
 
+[Alaska Library Association Conference (pdf)](https://drive.google.com/file/d/1jzU1gyOuQtsDI2w3kPRg0ggrB19MJQ7D/view?usp=sharing){:target="_blank"}
+
+- Presenters: Kara Long, Lauren Wallace
+
+[Florida Library Association (pdf)](https://drive.google.com/file/d/1FCZjfCkAvFvfKq-FZvqeLkLTyVCKidLi/view?usp=sharing){:target="_blank"}
+
+- Presenters: Faye Leibowitz, Natalie Kazmin
+
 ## 2025
 
 [ORC 2025 update (video)]( https://www.youtube.com/watch?v=gy7yUg-Yb8Q){:target="_blank"}
