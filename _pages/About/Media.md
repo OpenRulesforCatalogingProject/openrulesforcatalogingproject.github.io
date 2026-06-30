@@ -11,6 +11,10 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2026
 
+[Amigos Know & Go (pdf)](https://drive.google.com/file/d/1p0k7pIty7owFDVAt4bosPMzHNCjFw9ae/view?usp=drive_link){:target="_blank"}
+
+-Presenter: Seth Huber
+
 [Cataloging Class, University of North Carolina at Chapel Hill (pdf)](https://drive.google.com/file/d/1-KdKvkkrnz8OHegSVKcvKbwkalX5JnsK/view?usp=drive_link){:target="_blank"}
 
 - Presenters: Amy Hitchner, Denise Soufi
