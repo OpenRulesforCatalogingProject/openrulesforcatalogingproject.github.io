@@ -7,6 +7,14 @@ sidebar:
   nav: "docs"
 ---
 
+## July 2026-June 2027
+
+* President: Bobby Bothmann, Minnesota State University, Mankato
+* Vice-President/President Elect: Lana Soglasnova, University of Toronto
+* Past President: Julie Renee Moore, California State University, Fresno
+* Secretary: Ashley Poteate, Methodist University
+* Treasurer: Mike Monaco, University of Akron
+
 ## July 2025-June 2026
 
 * President: Julie Renee Moore, California State University, Fresno
