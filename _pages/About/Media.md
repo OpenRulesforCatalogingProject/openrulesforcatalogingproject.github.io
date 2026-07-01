@@ -11,6 +11,12 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2026
 
+[ALA Poster (pdf)](https://drive.google.com/file/d/1I0BVtt6f7lRK-hDkU4CclmrE2vRJPOjo/view?usp=drive_link){:target="_blank"}
+
+-Presenter: Julie Renee Moore
+
+![ORC poster for the American Library Association.](/assets/pictures/ALA_2026_poster.jpeg)
+
 [Amigos Know & Go (pdf)](https://drive.google.com/file/d/1p0k7pIty7owFDVAt4bosPMzHNCjFw9ae/view?usp=drive_link){:target="_blank"}
 
 -Presenter: Seth Huber
