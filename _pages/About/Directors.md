@@ -21,7 +21,9 @@ sidebar:
 * Vice-President/President Elect: Bobby Bothmann, Minnesota State University, Mankato 
 * Past President: Lloyd Chittenden, Marmot Library Network
 * Secretary: Amy Hitchner, Colorado State Library
-* Treasurer: Denise Soufi, University of North Carolina at Chapel Hill 
+* Treasurer: Denise Soufi, University of North Carolina at Chapel Hill
+
+[2026 Annual Report](https://drive.google.com/file/d/1_YFQtH38ls0SFbiTe2vqVcHaivQNlFd2/view?usp=sharing){:target="_blank"}
 
 ## July 2024-June 2025
 
@@ -31,7 +33,7 @@ sidebar:
 * Secretary: Amy Hitchner, Colorado State Library
 * Treasurer: Eric Willey (1 year interim), Illinois State University
 
-[2025 Annual Report](https://drive.google.com/file/d/1_GPaITdOCfgyDBJF4xk3wqr6dqP86Srt/view?usp=drive_link){:target="_blank"}
+[2025 Annual Report](https://drive.google.com/file/d/1_GPaITdOCfgyDBJF4xk3wqr6dqP86Srt/view?usp=sharing){:target="_blank"}
 
 ## July 2023-June 2024
 
@@ -43,10 +45,10 @@ sidebar:
 
 ## Past Leaders of ORC Core Committee
 
-* Billey Albina, _founder and leader, 2019-2020_
 * Amy Hitchner, _co-leader, January 2024-June 2024_
 * Ann Kardos, _co-leader, April 2023-December 2023_
 * Faye Leibowitz, _co-leader, January 2021-December 2023_
 * Denise Soufi, _co-leader, January 2021-March 2023, January 2024-June 2024_
+* Billey Albina, _founder and leader, 2019-2020_
 
 ---
