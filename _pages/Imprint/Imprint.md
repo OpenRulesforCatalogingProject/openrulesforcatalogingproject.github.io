@@ -17,12 +17,6 @@ sidebar:
 
 An Imprint is a statement that describes where, by whom, and when the resource was published, produced, distributed and/or manufactured. Prioritize publication information over production, distribution or manufacturing information whenever possible.
 
-## Contents:
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
-
 ## 030100. Place of publisher, producer, distributor, and/or manufacturer (repeatable)
 
 **Definition:** The name of the place associated with the publisher, producer, distributor, and/or manufacturer.
