@@ -13,8 +13,6 @@ sidebar:
 - TOC
 {:toc}
 
----
-
 **Please provide [your feedback](https://forms.gle/XFSDrcnGQuz13y7c7) on Imprint rules by December 1, 2026.**
 
 <br>
@@ -179,10 +177,12 @@ Add distribution or manufacture dates if considered useful for identification or
 >264 \#1 \$a Whittier, California : \$b Select Nurseries, \$c \[1948?\]  
 >588 \#\# \$a Publication date inferred from articles cited on pages 39-40.
 >  
->**_Publication date not determined_**  
+>**_Publication date not determined_**
+>  
 >264 \#1 \$a London : \$b Sheldon Press, \$c \[date of publication not determined\]  
 >  
->**_Publication date and distribution date both deemed important for discovery_**  
+>**_Publication date and distribution date both deemed important for discovery_**
+>  
 >264 \#1 \$a Hong Kong : \$b Hong Kong University Press, \$c 2009  
 >264 \#2 \$a London : \$b Eurospan, \$c 2012
 
