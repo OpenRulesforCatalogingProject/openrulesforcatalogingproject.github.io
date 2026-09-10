@@ -7,15 +7,13 @@ sidebar:
   nav: "docs"
 ---
 
+**Please provide [your feedback](https://forms.gle/XFSDrcnGQuz13y7c7) on Imprint rules by December 1, 2026.**
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
-
-**Please provide [your feedback](https://forms.gle/XFSDrcnGQuz13y7c7) on Imprint rules by December 1, 2026.**
-
-<br>
 
 An Imprint is a statement that describes where, by whom, and when the resource was published, produced, distributed and/or manufactured. Prioritize publication information over production, distribution or manufacturing information whenever possible.
 
