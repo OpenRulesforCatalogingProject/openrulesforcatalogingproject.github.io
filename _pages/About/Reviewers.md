@@ -18,6 +18,7 @@ sidebar:
 * Joshua Hutchinson
 * DeAnn Isenhower
 * Ceinwen Jones
+* Nia Kearney
 * Tim Keller
 * Amanda Mack
 * Robin Goodfellow (Puck) Malamud 
