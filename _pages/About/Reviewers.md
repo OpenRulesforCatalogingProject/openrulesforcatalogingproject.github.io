@@ -7,6 +7,29 @@ sidebar:
   nav: "docs"
 ---
 
+## August 2026-July 2028
+
+* Francis Alix
+* Cíntia Azevedo Lourenço
+* Meghan Banach Bergin 
+* Clint Crumley
+* Diana DiPierro
+* Peggy Griesinger
+* Joshua Hutchinson
+* DeAnn Isenhower
+* Ceinwen Jones
+* Tim Keller
+* Amanda Mack
+* Robin Goodfellow (Puck) Malamud 
+* Gretchen Neidhardt
+* Miranda Nero
+* Steven Ovadia 
+* Ana Carolina Simionato Arakaki 
+* Sarah Spigner
+* Lori Van Deman
+* Holly Wheeler
+* Josh Zink
+
 ## August 2024-July 2026
 
 * Francis Alix
