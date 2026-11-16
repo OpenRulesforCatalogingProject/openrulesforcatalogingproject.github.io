@@ -13,7 +13,7 @@ sidebar:
 * Sasha Frizzell
 * Amy Hitchner, _Chair, Jan.-Oct. 2024; co-chair, Nov. 2024-present_
 * Seth Huber
-* Ann Kardos, _Chair, Aug.-Dec. 2023; co-chair, Nov. 2024-present_
+* Ann Kardos, _Chair, Aug.-Dec. 2023; co-chair, Nov. 2024-July 2025
 * Natalie Kazmin
 * Faye Leibowitz, _Chair, Jan. 2021-July 2023_
 * Mary Finn
