@@ -6,6 +6,7 @@ permalink: /ORC/home/
 sidebar:
   nav: "docs"
 ---
+[Join us for our 2026 Update Webinar!](#2026-update-webinar)
 
 ## Welcome!
 {: .no_toc }
@@ -16,4 +17,13 @@ This website is ORC's temporary location where drafts of cataloging rules will b
 
 To find out more about ORC, visit our [About](/ORC/about/) page. Interested in joining? As a member of the ORC community, you will receive regular updates and have access to the project's Google Drive. To sign up, send a message to the [ORC Google Group](https://groups.google.com/g/openrulesforcataloging). And be sure to follow us on our [YouTube channel](https://www.youtube.com/channel/UCWAxYoEdDJcUryqQxgLBprA)!
 
+## 2026 Update Webinar
+
+Join us! Open Rules for Cataloging (ORC) is hosting a virtual webinar on December 3, Thursday, 1 PM EST to give a progress update for the rules development in 2026 and to talk about future goals. 
+
+Everyone is welcome to join and learn about ORC, even if you are not already a member of the Google Group ([Click to join our Google Group for updates](https://groups.google.com/g/openrulesforcataloging)).
+
+- **When: December 3, Thursday, 1 PM EST**
+- **Where: Contact freeyourcatalogingrules@gmail[dot]com for the Zoom link**
+- **What: Learn about ORC's progress in 2026 and future goals**
 ---
