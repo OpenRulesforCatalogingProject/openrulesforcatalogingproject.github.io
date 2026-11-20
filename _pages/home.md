@@ -6,7 +6,6 @@ permalink: /ORC/home/
 sidebar:
   nav: "docs"
 ---
-[Join us for our 2026 Update Webinar!](#2026-update-webinar)
 
 ## Welcome!
 {: .no_toc }
