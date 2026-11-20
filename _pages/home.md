@@ -13,7 +13,6 @@ sidebar:
 {:toc}
 
 ## Welcome!
-{: .no_toc }
 
 The Open Rules for Cataloging (ORC) project was initiated in 2019 to create open access cataloging rules for the cataloging community. It is proposed to be a freely available alternative for those who desire a less abstract cataloging code. Its premise is that it is possible to identify universal, time-honored cataloging concepts in preexisting cataloging rule sets which can be used as the base of a modern, ethical cataloging code. ORC is being built upon a reliable historical foundation to provide a helpful tool for the basic cataloging needs of the community. Members come from the United States and beyond and represent a variety of library types and backgrounds.
 
