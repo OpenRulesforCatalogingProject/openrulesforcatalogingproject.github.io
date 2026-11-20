@@ -28,4 +28,6 @@ Everyone is welcome to join and learn about ORC, even if you are not already a m
 - Where: Contact freeyourcatalogingrules@gmail[dot]com for the Zoom link
 - What: Learn about ORC's progress in 2026 and future goals
 
+Have questions about ORC you want addressed at the webinar? [Use this form to submit Questions/Comments for the Webinar ahead of time](https://docs.google.com/forms/d/e/1FAIpQLSceSg2LWYD-jvmyyMkPgXcIkZ0k0mYasZhdxcCJOANtDY29OQ/viewform?usp=publish-editor).
+
 ---
