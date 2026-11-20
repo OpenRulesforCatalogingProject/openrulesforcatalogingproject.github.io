@@ -11,6 +11,15 @@ Presentations, podcasts, and project updates by ORC members since 2021. Updates 
 
 ## 2026
 
+[Core Forum poster (pdf)](https://drive.google.com/file/d/1_KURDuttIWGPHCgN1CcbhZz9xTGRrswA/view?usp=drive_link){:target="_blank"}
+
+-Presenter: Bobby Bothmann
+
+[WolfCon (video)](https://www.youtube.com/watch?v=372hgwW3w2s){:target="_blank"} and 
+[WolfCon (pdf)](https://drive.google.com/file/d/1BsheHjfXR42niOrWxufPUCMKIqo4GmXM/view?usp=drive_link){:target="_blank"}
+
+- Presenters: Faye Leibowitz, Lloyd Chittenden, Sasha Frizzell
+
 [ALA Poster (pdf)](https://drive.google.com/file/d/1I0BVtt6f7lRK-hDkU4CclmrE2vRJPOjo/view?usp=drive_link){:target="_blank"}
 
 -Presenter: Julie Renee Moore
